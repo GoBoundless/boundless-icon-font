@@ -17,8 +17,15 @@ gem install fontcustom
 brew install node
 
 
-Run: (will watch the svg folder for new files)
+USAGE:
+1. CD to this directory, then Run:
 node start.js
+(will watch the svg folder for new files)
+
+2. Add, or remove .svg files to/from the svg folder, and the css, and font will be automatically updated
+
+3. Visit the styleguide folder to preview your font in the browser.
+
 
 
 
