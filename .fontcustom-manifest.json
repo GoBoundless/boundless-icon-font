@@ -1,0 +1,55 @@
+{
+  "checksum": {
+    "previous": "f22560217adfa5d3609ec07e2e4540ec30ff3595efedbc2c1846eea756bdd983",
+    "current": "f22560217adfa5d3609ec07e2e4540ec30ff3595efedbc2c1846eea756bdd983"
+  },
+  "fonts": [
+    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.ttf",
+    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.svg",
+    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.woff",
+    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.eot"
+  ],
+  "glyphs": {
+    "by": {
+      "codepoint": 61699,
+      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/by.svg"
+    },
+    "by_v3": {
+      "codepoint": 61700,
+      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/by_v3.svg"
+    },
+    "twitter_blue--1-": {
+      "codepoint": 61698,
+      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/twitter_blue (1).svg"
+    }
+  },
+  "options": {
+    "autowidth": true,
+    "config": "fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_name": "boundless-icon-font",
+    "force": false,
+    "input": {
+      "templates": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg",
+      "vectors": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "stylesheets",
+      "fonts": "boundless-icon-font",
+      "preview": "styleguide"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "skip_first": false,
+    "templates": [
+      "scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "stylesheets/_boundless-icon-font.scss",
+    "styleguide/boundless-icon-font-preview.html"
+  ]
+}

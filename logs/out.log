@@ -1,0 +1,104 @@
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  test.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_ec3f5fed3d7360909d5335be17748d5e.ttf
+              boundless-icon-font/boundless-icon-font_ec3f5fed3d7360909d5335be17748d5e.svg
+              boundless-icon-font/boundless-icon-font_ec3f5fed3d7360909d5335be17748d5e.woff
+              boundless-icon-font/boundless-icon-font_ec3f5fed3d7360909d5335be17748d5e.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  by copy.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.ttf
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.svg
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.woff
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  test copy.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_e66a11be19104027161e3e54e85ce506.ttf
+              boundless-icon-font/boundless-icon-font_e66a11be19104027161e3e54e85ce506.svg
+              boundless-icon-font/boundless-icon-font_e66a11be19104027161e3e54e85ce506.woff
+              boundless-icon-font/boundless-icon-font_e66a11be19104027161e3e54e85ce506.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  test copy.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.ttf
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.svg
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.woff
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  twitter_blue (1).svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.ttf
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.svg
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.woff
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  twitter_blue (1).svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.ttf
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.svg
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.woff
+              boundless-icon-font/boundless-icon-font_53e08ba71154be3cda4cf681328f8e94.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  twitter_blue (1).svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.ttf
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.svg
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.woff
+              boundless-icon-font/boundless-icon-font_8fd3dbf8e9f56fe4a51e72a76860102b.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  test.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_57fe8e30e021c8bc47701c6b29965960.ttf
+              boundless-icon-font/boundless-icon-font_57fe8e30e021c8bc47701c6b29965960.svg
+              boundless-icon-font/boundless-icon-font_57fe8e30e021c8bc47701c6b29965960.woff
+              boundless-icon-font/boundless-icon-font_57fe8e30e021c8bc47701c6b29965960.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  by.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_cd8f2df2d805e7c2a9f6c4b0defa8a70.ttf
+              boundless-icon-font/boundless-icon-font_cd8f2df2d805e7c2a9f6c4b0defa8a70.svg
+              boundless-icon-font/boundless-icon-font_cd8f2df2d805e7c2a9f6c4b0defa8a70.woff
+              boundless-icon-font/boundless-icon-font_cd8f2df2d805e7c2a9f6c4b0defa8a70.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  by_v3.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.ttf
+              boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.svg
+              boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.woff
+              boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+

@@ -1,0 +1,27 @@
+This is an automated system to develop an icon webfont from all .svg files present in the "svg" folder.
+
+It uses "fontCustom"
+https://github.com/FontCustom/fontcustom
+
+Design guidelines:
+-All colors will be rendered identically — including white fills.
+-Make transparent colors solid. SVGs with transparency will be skipped.
+-For greater precision, prefer fills to strokes (especially if your icon includes curves).
+-Keep your icon within a square viewBox. Font Custom scales each SVG to fit a 512x512 canvas with a baseline at 448.
+-Setting autowidth to true trims horizontal white space from each glyph. This can be much easier than centering dozens of SVGs by hand.
+
+
+Installation:
+brew install fontforge eot-utils ttfautohint
+gem install fontcustom
+brew install node
+
+
+Run: (will watch the svg folder for new files)
+node start.js
+
+
+
+Notes:
+-Config file is: fontcustom.yml. These config settings will only be loaded if the fontcustom command is run while in this directory
+-If you run "node start.js" and the svg folder is empty, it will error and exit.
