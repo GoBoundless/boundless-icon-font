@@ -1,26 +1,22 @@
 {
   "checksum": {
-    "previous": "f22560217adfa5d3609ec07e2e4540ec30ff3595efedbc2c1846eea756bdd983",
-    "current": "f22560217adfa5d3609ec07e2e4540ec30ff3595efedbc2c1846eea756bdd983"
+    "previous": "89bdb9d2b89ec4eb29728d08d3b40b5d5431e994eaed727bb421802785b86847",
+    "current": "89bdb9d2b89ec4eb29728d08d3b40b5d5431e994eaed727bb421802785b86847"
   },
   "fonts": [
-    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.ttf",
-    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.svg",
-    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.woff",
-    "boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.eot"
+    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.ttf",
+    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.svg",
+    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.woff",
+    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.eot"
   ],
   "glyphs": {
     "by": {
       "codepoint": 61699,
-      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/by.svg"
-    },
-    "by_v3": {
-      "codepoint": 61700,
-      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/by_v3.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/by.svg"
     },
     "twitter_blue--1-": {
       "codepoint": 61698,
-      "source": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg/twitter_blue (1).svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/twitter_blue (1).svg"
     }
   },
   "options": {
@@ -31,8 +27,8 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg",
-      "vectors": "/Users/joewebb/Documents/Joe/apps/fontCustom/svg"
+      "templates": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg",
+      "vectors": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg"
     },
     "no_hash": false,
     "output": {

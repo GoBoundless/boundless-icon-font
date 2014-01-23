@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Thu Jan 23 13:30:56 2014
+Created by FontForge 20120731 at Thu Jan 23 14:08:20 2014
  By Joe Webb
 Created by Joe Webb with FontForge 2.0 (http://fontforge.sf.net)
 </metadata>
@@ -19,10 +19,10 @@ Created by Joe Webb with FontForge 2.0 (http://fontforge.sf.net)
     panose-1="2 0 6 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="0 -45 512 448"
+    bbox="0 10 512 448"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F102-F104"
+    unicode-range="U+F102-F103"
   />
     <missing-glyph />
     <glyph glyph-name="uniF102" unicode="&#xf102;" 
@@ -31,7 +31,5 @@ c0 19 6 37 15 53c52 -64 129 -106 216 -110c-2 8 -3 16 -3 24c0 58 47 105 105 105c3
     <glyph glyph-name="uniF103" unicode="&#xf103;" horiz-adv-x="364" 
 d="M311 321c35 -35 53 -78 53 -129s-17 -94 -52 -128c-37 -36 -80 -54 -130 -54c-49 0 -92 18 -128 54s-54 78 -54 128s18 93 54 129c35 35 78 53 128 53c51 0 94 -18 129 -53zM288 88c29 28 43 62 43 104c0 41 -14 77 -43 106s-65 43 -106 43s-76 -14 -105 -43
 c-30 -30 -44 -66 -44 -106s15 -76 44 -105s64 -44 105 -44s76 15 106 45zM182 259c-17 0 -25 8 -25 25s8 26 25 26s25 -9 25 -26s-8 -25 -25 -25zM219 249c3 0 7 -2 9 -4s3 -5 3 -8v-74h-21v-89h-56v89h-21v74c0 3 1 6 3 8s6 4 9 4h74z" />
-    <glyph glyph-name="uniF104" unicode="&#xf104;" horiz-adv-x="98" 
-d="M49 326c-17 0 -25 17 -25 51s8 52 25 52s25 -18 25 -52s-8 -51 -25 -51zM86 307c3 0 7 -2 9 -7s3 -10 3 -17v-150h-21v-178h-56v178h-21v150c0 7 1 12 3 17s6 7 9 7h74z" />
   </font>
 </defs></svg>

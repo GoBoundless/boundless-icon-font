@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "boundless-icon-font";
-  src: url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.eot");
-  src: url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.eot?#iefix") format("embedded-opentype"),
-       url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.woff") format("woff"),
-       url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.ttf") format("truetype"),
-       url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.svg#boundless-icon-font") format("svg");
+  src: url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.eot");
+  src: url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.eot?#iefix") format("embedded-opentype"),
+       url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.woff") format("woff"),
+       url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.ttf") format("truetype"),
+       url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.svg#boundless-icon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "boundless-icon-font";
-    src: url("../boundless-icon-font/boundless-icon-font_f22560217adfa5d3609ec07e2e4540ec.svg#boundless-icon-font") format("svg");
+    src: url("../boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.svg#boundless-icon-font") format("svg");
   }
 }
 
@@ -24,7 +24,6 @@
 
 [data-icon]:before,
 .icon-by:before,
-.icon-by_v3:before,
 .icon-twitter_blue--1-:before {
   display: inline-block;
   font-family: "boundless-icon-font";
@@ -39,5 +38,4 @@
 }
 
 .icon-by:before { content: "\f103"; }
-.icon-by_v3:before { content: "\f104"; }
 .icon-twitter_blue--1-:before { content: "\f102"; }
