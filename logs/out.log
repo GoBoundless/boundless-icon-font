@@ -8,3 +8,34 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
               styleguide/boundless-icon-font-preview.html
 
+[1m[32m       added[0m  twitter.svg
+[1m[32m     removed[0m  twitter_blue (1).svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_61ea2f58b08eb60513bd1796aca24c28.ttf
+              boundless-icon-font/boundless-icon-font_61ea2f58b08eb60513bd1796aca24c28.svg
+              boundless-icon-font/boundless-icon-font_61ea2f58b08eb60513bd1796aca24c28.woff
+              boundless-icon-font/boundless-icon-font_61ea2f58b08eb60513bd1796aca24c28.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  by.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_706ae441fad1c002c72f6c0c70aca5e9.ttf
+              boundless-icon-font/boundless-icon-font_706ae441fad1c002c72f6c0c70aca5e9.svg
+              boundless-icon-font/boundless-icon-font_706ae441fad1c002c72f6c0c70aca5e9.woff
+              boundless-icon-font/boundless-icon-font_706ae441fad1c002c72f6c0c70aca5e9.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  blog.svg, facebook.svg
+
+[1m[32m      create[0m  boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.ttf
+              boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.svg
+              boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.woff
+              boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.eot
+
+[1m[32m      create[0m  stylesheets/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+

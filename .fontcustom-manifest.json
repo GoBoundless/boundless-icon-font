@@ -1,22 +1,26 @@
 {
   "checksum": {
-    "previous": "89bdb9d2b89ec4eb29728d08d3b40b5d5431e994eaed727bb421802785b86847",
-    "current": "89bdb9d2b89ec4eb29728d08d3b40b5d5431e994eaed727bb421802785b86847"
+    "previous": "24af4b5041aba266b7693e3d7754c9e60c82479c307a98d12a70133b08f7b516",
+    "current": "24af4b5041aba266b7693e3d7754c9e60c82479c307a98d12a70133b08f7b516"
   },
   "fonts": [
-    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.ttf",
-    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.svg",
-    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.woff",
-    "boundless-icon-font/boundless-icon-font_89bdb9d2b89ec4eb29728d08d3b40b5d.eot"
+    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.ttf",
+    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.svg",
+    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.woff",
+    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.eot"
   ],
   "glyphs": {
-    "by": {
-      "codepoint": 61699,
-      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/by.svg"
+    "blog": {
+      "codepoint": 61701,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/blog.svg"
     },
-    "twitter_blue--1-": {
-      "codepoint": 61698,
-      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/twitter_blue (1).svg"
+    "facebook": {
+      "codepoint": 61702,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/facebook.svg"
+    },
+    "twitter": {
+      "codepoint": 61700,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/twitter.svg"
     }
   },
   "options": {
