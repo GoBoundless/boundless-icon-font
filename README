@@ -26,6 +26,7 @@ node start.js
 
 3. Visit the styleguide folder to preview your font in the browser.
 
+Specific to Boundless Learning App:
 4. To move the updated font into the Boundless app, copy the folders “stylesheets” and “boundless-icon-font” from this folder into www/lib/assets/fonts/icon-font
 
 
