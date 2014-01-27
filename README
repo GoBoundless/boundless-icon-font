@@ -19,7 +19,7 @@ brew install node
 
 
 USAGE:
-1. CD to this directory, then Run:
+1. CD to this directory, then Run: 
 node start.js
 (will watch the svg folder for new files)
 
