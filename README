@@ -9,6 +9,7 @@ Design guidelines:
 -For greater precision, prefer fills to strokes (especially if your icon includes curves).
 -Keep your icon within a square viewBox. Font Custom scales each SVG to fit a 512x512 canvas with a baseline at 448.
 -Setting autowidth to true trims horizontal white space from each glyph. This can be much easier than centering dozens of SVGs by hand.
+-Boundless Learning Specific: Speak with Patrick for exact Illustrator .svg export specs.
 
 
 Installation:
@@ -27,7 +28,7 @@ node start.js
 3. Visit the styleguide folder to preview your font in the browser.
 
 Specific to Boundless Learning App:
-4. To move the updated font into the Boundless app, copy the folders “stylesheets” and “boundless-icon-font” from this folder into www/lib/assets/fonts/icon-font
+4. To move the updated font into the Boundless app, copy the folder “boundless-icon-font” from this folder into www/lib/assets/fonts (overwrite)
 
 
 Notes:

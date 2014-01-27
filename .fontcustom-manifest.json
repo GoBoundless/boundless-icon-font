@@ -1,21 +1,21 @@
 {
   "checksum": {
-    "previous": "24af4b5041aba266b7693e3d7754c9e60c82479c307a98d12a70133b08f7b516",
-    "current": "24af4b5041aba266b7693e3d7754c9e60c82479c307a98d12a70133b08f7b516"
+    "previous": "eca28fa44011c92b23b5c75c464842e97662b209a5d2cf41b43f6278701c9094",
+    "current": "eca28fa44011c92b23b5c75c464842e97662b209a5d2cf41b43f6278701c9094"
   },
   "fonts": [
-    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.ttf",
-    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.svg",
-    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.woff",
-    "boundless-icon-font/boundless-icon-font_24af4b5041aba266b7693e3d7754c9e6.eot"
+    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.ttf",
+    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.svg",
+    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.woff",
+    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.eot"
   ],
   "glyphs": {
     "blog": {
-      "codepoint": 61701,
+      "codepoint": 61699,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/blog.svg"
     },
     "facebook": {
-      "codepoint": 61702,
+      "codepoint": 61698,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/facebook.svg"
     },
     "twitter": {
@@ -24,7 +24,7 @@
     }
   },
   "options": {
-    "autowidth": true,
+    "autowidth": false,
     "config": "fontcustom.yml",
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
@@ -36,8 +36,8 @@
     },
     "no_hash": false,
     "output": {
-      "css": "stylesheets",
-      "fonts": "boundless-icon-font",
+      "css": "boundless-icon-font/stylesheet",
+      "fonts": "boundless-icon-font/font-files",
       "preview": "styleguide"
     },
     "preprocessor_path": "",
@@ -49,7 +49,7 @@
     ]
   },
   "templates": [
-    "stylesheets/_boundless-icon-font.scss",
+    "boundless-icon-font/stylesheet/_boundless-icon-font.scss",
     "styleguide/boundless-icon-font-preview.html"
   ]
 }

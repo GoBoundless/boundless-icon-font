@@ -7,7 +7,7 @@
 font_name: boundless-icon-font
 css_selector: .icon-{{glyph}}
 preprocessor_path: ""
-autowidth: true
+autowidth: false
 no_hash: false
 force: false
 debug: false
@@ -28,8 +28,8 @@ input:
 # --------------------------------------------------------------------------- #
 
 output:
-  fonts: boundless-icon-font                              # required
-  css: stylesheets
+  fonts: boundless-icon-font/font-files                              # required
+  css: boundless-icon-font/stylesheet
   preview: styleguide
   #my-custom-template.yml: path/to/template/output
 
