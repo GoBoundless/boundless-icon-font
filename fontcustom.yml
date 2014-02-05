@@ -5,10 +5,10 @@
 # --------------------------------------------------------------------------- #
 
 font_name: boundless-icon-font
-css_selector: .icon-{{glyph}}
+css_selector: .boundless-icon-{{glyph}}
 preprocessor_path: ""
 autowidth: false
-no_hash: false
+no_hash: true
 force: false
 debug: false
 quiet: false
@@ -19,7 +19,7 @@ quiet: false
 # --------------------------------------------------------------------------- #
 
 input:
-  vectors: svg        # required
+  vectors: svg      # required
   templates: templates
 
 

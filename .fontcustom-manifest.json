@@ -1,32 +1,92 @@
 {
   "checksum": {
-    "previous": "eca28fa44011c92b23b5c75c464842e97662b209a5d2cf41b43f6278701c9094",
-    "current": "eca28fa44011c92b23b5c75c464842e97662b209a5d2cf41b43f6278701c9094"
+    "previous": "64ea7cc99a2c5788243711b9887564577b510a77488d164cdaeb05ce4a7bc3ec",
+    "current": "64ea7cc99a2c5788243711b9887564577b510a77488d164cdaeb05ce4a7bc3ec"
   },
   "fonts": [
-    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.ttf",
-    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.svg",
-    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.woff",
-    "boundless-icon-font/font-files/boundless-icon-font_eca28fa44011c92b23b5c75c464842e9.eot"
+    "boundless-icon-font/font-files/boundless-icon-font.ttf",
+    "boundless-icon-font/font-files/boundless-icon-font.svg",
+    "boundless-icon-font/font-files/boundless-icon-font.woff",
+    "boundless-icon-font/font-files/boundless-icon-font.eot"
   ],
   "glyphs": {
-    "blog": {
+    "bike": {
       "codepoint": 61699,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/bike.svg"
+    },
+    "blog": {
+      "codepoint": 61696,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/blog.svg"
     },
+    "competition": {
+      "codepoint": 61700,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/competition.svg"
+    },
+    "dineraccess": {
+      "codepoint": 61701,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/dineraccess.svg"
+    },
+    "download": {
+      "codepoint": 61713,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/download.svg"
+    },
+    "drink": {
+      "codepoint": 61702,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/drink.svg"
+    },
     "facebook": {
-      "codepoint": 61698,
+      "codepoint": 61697,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/facebook.svg"
     },
+    "googleplus": {
+      "codepoint": 61711,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/googleplus.svg"
+    },
+    "joiedevivre": {
+      "codepoint": 61703,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/joiedevivre.svg"
+    },
+    "lasers": {
+      "codepoint": 61704,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/lasers.svg"
+    },
+    "office": {
+      "codepoint": 61705,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/office.svg"
+    },
+    "pepe": {
+      "codepoint": 61706,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/pepe.svg"
+    },
+    "pingpong": {
+      "codepoint": 61707,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/pingpong.svg"
+    },
+    "sample2-01": {
+      "codepoint": 61712,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/sample2-01.svg"
+    },
+    "screen": {
+      "codepoint": 61708,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/screen.svg"
+    },
+    "standingdesks": {
+      "codepoint": 61709,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/standingdesks.svg"
+    },
     "twitter": {
-      "codepoint": 61700,
+      "codepoint": 61698,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/twitter.svg"
+    },
+    "videogames": {
+      "codepoint": 61710,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/videogames.svg"
     }
   },
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
-    "css_selector": ".icon-{{glyph}}",
+    "css_selector": ".boundless-icon-{{glyph}}",
     "debug": false,
     "font_name": "boundless-icon-font",
     "force": false,
@@ -34,7 +94,7 @@
       "templates": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg",
       "vectors": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
       "css": "boundless-icon-font/stylesheet",
       "fonts": "boundless-icon-font/font-files",

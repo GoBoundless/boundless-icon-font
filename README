@@ -9,7 +9,7 @@ Design guidelines:
 -For greater precision, prefer fills to strokes (especially if your icon includes curves).
 -Keep your icon within a square viewBox. Font Custom scales each SVG to fit a 512x512 canvas with a baseline at 448.
 -Setting autowidth to true trims horizontal white space from each glyph. This can be much easier than centering dozens of SVGs by hand.
--Boundless Learning Specific: Speak with Patrick for exact Illustrator .svg export specs.
+-See screenshot for .svg export specs. Imprortant: export all svg’s as same size (512x512)
 
 
 Installation:
