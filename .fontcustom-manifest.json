@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "64ea7cc99a2c5788243711b9887564577b510a77488d164cdaeb05ce4a7bc3ec",
-    "current": "64ea7cc99a2c5788243711b9887564577b510a77488d164cdaeb05ce4a7bc3ec"
+    "previous": "8987fcb61983bef8822f384b486f46c4e4f0e8b23de2f33e090a32e69eee16d1",
+    "current": "8987fcb61983bef8822f384b486f46c4e4f0e8b23de2f33e090a32e69eee16d1"
   },
   "fonts": [
     "boundless-icon-font/font-files/boundless-icon-font.ttf",
@@ -47,7 +47,7 @@
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/joiedevivre.svg"
     },
     "lasers": {
-      "codepoint": 61704,
+      "codepoint": 61714,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/lasers.svg"
     },
     "office": {
@@ -96,7 +96,7 @@
     },
     "no_hash": true,
     "output": {
-      "css": "boundless-icon-font/stylesheet",
+      "css": "boundless-icon-font",
       "fonts": "boundless-icon-font/font-files",
       "preview": "styleguide"
     },
@@ -109,7 +109,7 @@
     ]
   },
   "templates": [
-    "boundless-icon-font/stylesheet/_boundless-icon-font.scss",
+    "boundless-icon-font/_boundless-icon-font.scss",
     "styleguide/boundless-icon-font-preview.html"
   ]
 }

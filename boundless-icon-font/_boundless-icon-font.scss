@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "boundless-icon-font";
-  src: url("../font-files/boundless-icon-font.eot");
-  src: url("../font-files/boundless-icon-font.eot?#iefix") format("embedded-opentype"),
-       url("../font-files/boundless-icon-font.woff") format("woff"),
-       url("../font-files/boundless-icon-font.ttf") format("truetype"),
-       url("../font-files/boundless-icon-font.svg#boundless-icon-font") format("svg");
+  src: url("font-files/boundless-icon-font.eot");
+  src: url("font-files/boundless-icon-font.eot?#iefix") format("embedded-opentype"),
+       url("font-files/boundless-icon-font.woff") format("woff"),
+       url("font-files/boundless-icon-font.ttf") format("truetype"),
+       url("font-files/boundless-icon-font.svg#boundless-icon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "boundless-icon-font";
-    src: url("../font-files/boundless-icon-font.svg#boundless-icon-font") format("svg");
+    src: url("font-files/boundless-icon-font.svg#boundless-icon-font") format("svg");
   }
 }
 
@@ -62,7 +62,7 @@
 .boundless-icon-facebook:before { content: "\f101"; }
 .boundless-icon-googleplus:before { content: "\f10f"; }
 .boundless-icon-joiedevivre:before { content: "\f107"; }
-.boundless-icon-lasers:before { content: "\f108"; }
+.boundless-icon-lasers:before { content: "\f112"; }
 .boundless-icon-office:before { content: "\f109"; }
 .boundless-icon-pepe:before { content: "\f10a"; }
 .boundless-icon-pingpong:before { content: "\f10b"; }

@@ -29,7 +29,7 @@ input:
 
 output:
   fonts: boundless-icon-font/font-files                              # required
-  css: boundless-icon-font/stylesheet
+  css: boundless-icon-font
   preview: styleguide
   #my-custom-template.yml: path/to/template/output
 
