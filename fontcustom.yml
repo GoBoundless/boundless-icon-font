@@ -1,12 +1,11 @@
-# --------------------------------------------------------------------------- #
+  # --------------------------------------------------------------------------- #
 # Project Info
 #   Defaults shown. Learn more about these options by running
 #   `fontcustom help` or visiting <http://fontcustom.com>.
 # --------------------------------------------------------------------------- #
-
 font_name: boundless-icon-font
 css_selector: .boundless-icon-{{glyph}}
-preprocessor_path: ""
+preprocessor_path:
 autowidth: false
 no_hash: true
 force: false
@@ -28,8 +27,8 @@ input:
 # --------------------------------------------------------------------------- #
 
 output:
-  fonts: boundless-icon-font/font-files                              # required
-  css: boundless-icon-font
+  fonts: prepared/boundless-icon-font                            # required
+  css: prepared
   preview: styleguide
   #my-custom-template.yml: path/to/template/output
 
@@ -42,6 +41,7 @@ output:
 # --------------------------------------------------------------------------- #
 
 templates:
- - scss
+ #- scss
+ - scss-rails
  - preview
  #- my-custom-template.yml

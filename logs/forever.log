@@ -3394,3 +3394,586 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 
 [1m[32m      status[0m  No changes detected. Skipping compile.
 
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[31m       error[0m  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+              boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+              boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  facebook.svg
+[1m[31m       error[0m  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+[1m[32m     removed[0m  facebook.svg
+
+[1m[32m     removed[0m  facebook.svg
+
+[1m[32m     removed[0m  facebook.svg
+
+[1m[32m     removed[0m  facebook.svg
+[1m[31m       error[0m  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+[1m[32m     removed[0m  facebook.svg
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+[1m[31m       error[0m  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m       added[0m  .listen_test
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m       added[0m  facebook.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m     removed[0m  sample2-01.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[31m       error[0m  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m       added[0m  .listen_test
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/stylesheet/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  .listen_test
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m     removed[0m  download.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  download.svg
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  boundless-icon-font/font-files/boundless-icon-font.ttf
+              boundless-icon-font/font-files/boundless-icon-font.svg
+              boundless-icon-font/font-files/boundless-icon-font.woff
+              boundless-icon-font/font-files/boundless-icon-font.eot
+
+[1m[32m      create[0m  boundless-icon-font/_boundless-icon-font.scss
+              boundless-icon-font/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  prepared/boundless-icon-font
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     removed[0m  drink.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  drink.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  flashcards.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  quizzes.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+

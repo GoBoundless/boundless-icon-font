@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "8987fcb61983bef8822f384b486f46c4e4f0e8b23de2f33e090a32e69eee16d1",
-    "current": "8987fcb61983bef8822f384b486f46c4e4f0e8b23de2f33e090a32e69eee16d1"
+    "previous": "d743d3fb3dad7b41065cbdb3c732754c8154557517d380ec994b5864e1d46d51",
+    "current": "d743d3fb3dad7b41065cbdb3c732754c8154557517d380ec994b5864e1d46d51"
   },
   "fonts": [
-    "boundless-icon-font/font-files/boundless-icon-font.ttf",
-    "boundless-icon-font/font-files/boundless-icon-font.svg",
-    "boundless-icon-font/font-files/boundless-icon-font.woff",
-    "boundless-icon-font/font-files/boundless-icon-font.eot"
+    "prepared/boundless-icon-font/boundless-icon-font.ttf",
+    "prepared/boundless-icon-font/boundless-icon-font.svg",
+    "prepared/boundless-icon-font/boundless-icon-font.woff",
+    "prepared/boundless-icon-font/boundless-icon-font.eot"
   ],
   "glyphs": {
     "bike": {
@@ -27,16 +27,20 @@
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/dineraccess.svg"
     },
     "download": {
-      "codepoint": 61713,
+      "codepoint": 61716,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/download.svg"
     },
     "drink": {
-      "codepoint": 61702,
+      "codepoint": 61717,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/drink.svg"
     },
     "facebook": {
-      "codepoint": 61697,
+      "codepoint": 61715,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/facebook.svg"
+    },
+    "flashcards": {
+      "codepoint": 61718,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/flashcards.svg"
     },
     "googleplus": {
       "codepoint": 61711,
@@ -62,9 +66,9 @@
       "codepoint": 61707,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/pingpong.svg"
     },
-    "sample2-01": {
-      "codepoint": 61712,
-      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/sample2-01.svg"
+    "quizzes": {
+      "codepoint": 61719,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quizzes.svg"
     },
     "screen": {
       "codepoint": 61708,
@@ -96,20 +100,20 @@
     },
     "no_hash": true,
     "output": {
-      "css": "boundless-icon-font",
-      "fonts": "boundless-icon-font/font-files",
+      "css": "prepared",
+      "fonts": "prepared/boundless-icon-font",
       "preview": "styleguide"
     },
-    "preprocessor_path": "",
+    "preprocessor_path": null,
     "quiet": false,
     "skip_first": false,
     "templates": [
-      "scss",
+      "scss-rails",
       "preview"
     ]
   },
   "templates": [
-    "boundless-icon-font/_boundless-icon-font.scss",
+    "prepared/_boundless-icon-font-rails.scss",
     "styleguide/boundless-icon-font-preview.html"
   ]
 }
