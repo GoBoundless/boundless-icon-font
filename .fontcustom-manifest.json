@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "d743d3fb3dad7b41065cbdb3c732754c8154557517d380ec994b5864e1d46d51",
-    "current": "d743d3fb3dad7b41065cbdb3c732754c8154557517d380ec994b5864e1d46d51"
+    "previous": "8c4428c171636c8706b16b0f08d1ea844b012fbcb16386540c394054a6df88b8",
+    "current": "8c4428c171636c8706b16b0f08d1ea844b012fbcb16386540c394054a6df88b8"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -46,6 +46,10 @@
       "codepoint": 61711,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/googleplus.svg"
     },
+    "highlightsnotes": {
+      "codepoint": 61720,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/highlightsnotes.svg"
+    },
     "joiedevivre": {
       "codepoint": 61703,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/joiedevivre.svg"
@@ -73,6 +77,14 @@
     "screen": {
       "codepoint": 61708,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/screen.svg"
+    },
+    "search": {
+      "codepoint": 61722,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/search.svg"
+    },
+    "smartnotes": {
+      "codepoint": 61721,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/smartnotes.svg"
     },
     "standingdesks": {
       "codepoint": 61709,

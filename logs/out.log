@@ -44,3 +44,36 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
+[1m[32m       added[0m  highlightsnotes.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  smartnotes.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  search.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+err: 2014-02-07 10:06 fsevent_watch[30955] (CarbonCore.framework) server_gone_StreamRef_callback: register_with_server: ERROR: f2d_register_rpc() => (ipc/mig) server died (-308)
+2014-02-07 10:06 fsevent_watch[30955] (CarbonCore.framework) server_gone_StreamRef_callback: re-registering with server failed and returned -308 (f2d port 0x0)
+
