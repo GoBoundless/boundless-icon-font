@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8c4428c171636c8706b16b0f08d1ea844b012fbcb16386540c394054a6df88b8",
-    "current": "8c4428c171636c8706b16b0f08d1ea844b012fbcb16386540c394054a6df88b8"
+    "previous": "e66ff9a33fb2eed8156a58f617877876ba4a298e88a89baf9d82f0244efe78fe",
+    "current": "e66ff9a33fb2eed8156a58f617877876ba4a298e88a89baf9d82f0244efe78fe"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -73,6 +73,10 @@
     "quizzes": {
       "codepoint": 61719,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quizzes.svg"
+    },
+    "quotes": {
+      "codepoint": 61724,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quotes.svg"
     },
     "screen": {
       "codepoint": 61708,
