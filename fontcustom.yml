@@ -19,7 +19,7 @@ quiet: false
 
 input:
   vectors: svg      # required
-  templates: templates
+  #templates: templates
 
 
 # --------------------------------------------------------------------------- #
