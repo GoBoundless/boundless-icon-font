@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8ca26a40075c6561eff46e08732383242c06dcd70cd9fe19073bfa7ec374e559",
-    "current": "8ca26a40075c6561eff46e08732383242c06dcd70cd9fe19073bfa7ec374e559"
+    "previous": "161e7c86def470195b69a6e96b288eb0cb820a80a1d1dd78c012c750abd572eb",
+    "current": "161e7c86def470195b69a6e96b288eb0cb820a80a1d1dd78c012c750abd572eb"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -10,6 +10,10 @@
     "prepared/boundless-icon-font/boundless-icon-font.eot"
   ],
   "glyphs": {
+    "assignments": {
+      "codepoint": 61729,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/assignments.svg"
+    },
     "bike": {
       "codepoint": 61723,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/bike.svg"
@@ -25,6 +29,10 @@
     "competition": {
       "codepoint": 61700,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/competition.svg"
+    },
+    "courses": {
+      "codepoint": 61730,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/courses.svg"
     },
     "curate": {
       "codepoint": 61726,
@@ -94,6 +102,10 @@
       "codepoint": 61724,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quotes.svg"
     },
+    "read": {
+      "codepoint": 61731,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/read.svg"
+    },
     "screen": {
       "codepoint": 61708,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/screen.svg"
@@ -102,6 +114,10 @@
       "codepoint": 61722,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/search.svg"
     },
+    "settings": {
+      "codepoint": 61732,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/settings.svg"
+    },
     "smartnotes": {
       "codepoint": 61721,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/smartnotes.svg"
@@ -109,6 +125,10 @@
     "standingdesks": {
       "codepoint": 61709,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/standingdesks.svg"
+    },
+    "teach": {
+      "codepoint": 61733,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/teach.svg"
     },
     "twitter": {
       "codepoint": 61698,

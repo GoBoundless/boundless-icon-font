@@ -23,10 +23,12 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.boundless-icon-assignments:before,
 .boundless-icon-bike:before,
 .boundless-icon-blog:before,
 .boundless-icon-book:before,
 .boundless-icon-competition:before,
+.boundless-icon-courses:before,
 .boundless-icon-curate:before,
 .boundless-icon-dineraccess:before,
 .boundless-icon-download:before,
@@ -44,10 +46,13 @@
 .boundless-icon-pingpong:before,
 .boundless-icon-quizzes:before,
 .boundless-icon-quotes:before,
+.boundless-icon-read:before,
 .boundless-icon-screen:before,
 .boundless-icon-search:before,
+.boundless-icon-settings:before,
 .boundless-icon-smartnotes:before,
 .boundless-icon-standingdesks:before,
+.boundless-icon-teach:before,
 .boundless-icon-twitter:before,
 .boundless-icon-videogames:before {
   display: inline-block;
@@ -62,10 +67,12 @@
   -webkit-font-smoothing: antialiased;
 }
 
+.boundless-icon-assignments:before { content: "\f121"; }
 .boundless-icon-bike:before { content: "\f11b"; }
 .boundless-icon-blog:before { content: "\f100"; }
 .boundless-icon-book:before { content: "\f11d"; }
 .boundless-icon-competition:before { content: "\f104"; }
+.boundless-icon-courses:before { content: "\f122"; }
 .boundless-icon-curate:before { content: "\f11e"; }
 .boundless-icon-dineraccess:before { content: "\f105"; }
 .boundless-icon-download:before { content: "\f114"; }
@@ -83,9 +90,12 @@
 .boundless-icon-pingpong:before { content: "\f10b"; }
 .boundless-icon-quizzes:before { content: "\f117"; }
 .boundless-icon-quotes:before { content: "\f11c"; }
+.boundless-icon-read:before { content: "\f123"; }
 .boundless-icon-screen:before { content: "\f10c"; }
 .boundless-icon-search:before { content: "\f11a"; }
+.boundless-icon-settings:before { content: "\f124"; }
 .boundless-icon-smartnotes:before { content: "\f119"; }
 .boundless-icon-standingdesks:before { content: "\f10d"; }
+.boundless-icon-teach:before { content: "\f125"; }
 .boundless-icon-twitter:before { content: "\f102"; }
 .boundless-icon-videogames:before { content: "\f10e"; }
