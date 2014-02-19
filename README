@@ -17,6 +17,7 @@ brew install fontforge eot-utils ttfautohint
 gem install fontcustom
 brew install node
 
+close, then open new terminal window before usage.
 
 USAGE:
 1. CD to this directory, then Run: 
