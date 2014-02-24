@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0191c5c0d0e0ddea029e0d1ec341a0e1604210e8b572feb9afd03d012252066a",
-    "current": "0191c5c0d0e0ddea029e0d1ec341a0e1604210e8b572feb9afd03d012252066a"
+    "previous": "b4ddae8367945dd79c599e050c9eff63f16532053f95b8a5f1cff59d5e51e534",
+    "current": "b4ddae8367945dd79c599e050c9eff63f16532053f95b8a5f1cff59d5e51e534"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -12,131 +12,135 @@
   "glyphs": {
     "assignments": {
       "codepoint": 61734,
-      "source": "svg/assignments.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/assignments.svg"
     },
     "bike": {
       "codepoint": 61723,
-      "source": "svg/bike.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/bike.svg"
     },
     "blog": {
       "codepoint": 61696,
-      "source": "svg/blog.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/blog.svg"
     },
     "book": {
       "codepoint": 61725,
-      "source": "svg/book.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/book.svg"
     },
     "competition": {
       "codepoint": 61700,
-      "source": "svg/competition.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/competition.svg"
     },
     "courses": {
       "codepoint": 61730,
-      "source": "svg/courses.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/courses.svg"
     },
     "curate": {
       "codepoint": 61726,
-      "source": "svg/curate.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/curate.svg"
     },
     "dineraccess": {
       "codepoint": 61701,
-      "source": "svg/dineraccess.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/dineraccess.svg"
     },
     "download": {
       "codepoint": 61716,
-      "source": "svg/download.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/download.svg"
     },
     "drink": {
       "codepoint": 61717,
-      "source": "svg/drink.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/drink.svg"
     },
     "facebook": {
       "codepoint": 61715,
-      "source": "svg/facebook.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/facebook.svg"
     },
     "flashcards": {
       "codepoint": 61718,
-      "source": "svg/flashcards.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/flashcards.svg"
     },
     "googleplus": {
       "codepoint": 61711,
-      "source": "svg/googleplus.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/googleplus.svg"
     },
     "highlightsnotes": {
       "codepoint": 61720,
-      "source": "svg/highlightsnotes.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/highlightsnotes.svg"
     },
     "joiedevivre": {
       "codepoint": 61703,
-      "source": "svg/joiedevivre.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/joiedevivre.svg"
     },
     "lasers": {
       "codepoint": 61714,
-      "source": "svg/lasers.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/lasers.svg"
     },
     "office": {
       "codepoint": 61705,
-      "source": "svg/office.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/office.svg"
     },
     "organizeedit": {
       "codepoint": 61727,
-      "source": "svg/organizeedit.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/organizeedit.svg"
     },
     "peerreview": {
       "codepoint": 61728,
-      "source": "svg/peerreview.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/peerreview.svg"
     },
     "pepe": {
       "codepoint": 61706,
-      "source": "svg/pepe.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/pepe.svg"
     },
     "pingpong": {
       "codepoint": 61707,
-      "source": "svg/pingpong.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/pingpong.svg"
+    },
+    "ppt": {
+      "codepoint": 61736,
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/ppt.svg"
     },
     "quizzes": {
       "codepoint": 61719,
-      "source": "svg/quizzes.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/quizzes.svg"
     },
     "quotes": {
       "codepoint": 61724,
-      "source": "svg/quotes.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/quotes.svg"
     },
     "read": {
       "codepoint": 61731,
-      "source": "svg/read.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/read.svg"
     },
     "screen": {
       "codepoint": 61708,
-      "source": "svg/screen.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/screen.svg"
     },
     "search": {
       "codepoint": 61722,
-      "source": "svg/search.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/search.svg"
     },
     "settings": {
       "codepoint": 61732,
-      "source": "svg/settings.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/settings.svg"
     },
     "smartnotes": {
       "codepoint": 61721,
-      "source": "svg/smartnotes.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/smartnotes.svg"
     },
     "standingdesks": {
       "codepoint": 61709,
-      "source": "svg/standingdesks.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/standingdesks.svg"
     },
     "teach": {
       "codepoint": 61733,
-      "source": "svg/teach.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/teach.svg"
     },
     "twitter": {
       "codepoint": 61698,
-      "source": "svg/twitter.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/twitter.svg"
     },
     "videogames": {
       "codepoint": 61710,
-      "source": "svg/videogames.svg"
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/videogames.svg"
     }
   },
   "options": {
@@ -147,8 +151,8 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "/Users/afraser/boundless/node-fontCustom/svg",
+      "vectors": "/Users/afraser/boundless/node-fontCustom/svg"
     },
     "no_hash": true,
     "output": {
@@ -158,6 +162,7 @@
     },
     "preprocessor_path": null,
     "quiet": false,
+    "skip_first": false,
     "templates": [
       "scss-rails",
       "preview"
