@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b4ddae8367945dd79c599e050c9eff63f16532053f95b8a5f1cff59d5e51e534",
-    "current": "b4ddae8367945dd79c599e050c9eff63f16532053f95b8a5f1cff59d5e51e534"
+    "previous": "df3c19bb6d76437d34a4060191a388b1c3b5d5a081184b9543df9cf234a56777",
+    "current": "df3c19bb6d76437d34a4060191a388b1c3b5d5a081184b9543df9cf234a56777"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -73,6 +73,10 @@
     "lasers": {
       "codepoint": 61714,
       "source": "/Users/afraser/boundless/node-fontCustom/svg/lasers.svg"
+    },
+    "learn": {
+      "codepoint": 61737,
+      "source": "/Users/afraser/boundless/node-fontCustom/svg/learn.svg"
     },
     "office": {
       "codepoint": 61705,
