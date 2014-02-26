@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "df3c19bb6d76437d34a4060191a388b1c3b5d5a081184b9543df9cf234a56777",
-    "current": "df3c19bb6d76437d34a4060191a388b1c3b5d5a081184b9543df9cf234a56777"
+    "previous": "1bd6667ae2e8a34123c7265b4b7e9c427ffbe767d4331b7a862cc802d641da37",
+    "current": "1bd6667ae2e8a34123c7265b4b7e9c427ffbe767d4331b7a862cc802d641da37"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -12,139 +12,139 @@
   "glyphs": {
     "assignments": {
       "codepoint": 61734,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/assignments.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/assignments.svg"
     },
     "bike": {
       "codepoint": 61723,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/bike.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/bike.svg"
     },
     "blog": {
-      "codepoint": 61696,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/blog.svg"
+      "codepoint": 61737,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/blog.svg"
     },
     "book": {
       "codepoint": 61725,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/book.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/book.svg"
     },
     "competition": {
       "codepoint": 61700,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/competition.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/competition.svg"
     },
     "courses": {
       "codepoint": 61730,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/courses.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/courses.svg"
     },
     "curate": {
       "codepoint": 61726,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/curate.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/curate.svg"
     },
     "dineraccess": {
       "codepoint": 61701,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/dineraccess.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/dineraccess.svg"
     },
     "download": {
       "codepoint": 61716,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/download.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/download.svg"
     },
     "drink": {
-      "codepoint": 61717,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/drink.svg"
+      "codepoint": 61738,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/drink.svg"
     },
     "facebook": {
       "codepoint": 61715,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/facebook.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/facebook.svg"
     },
     "flashcards": {
       "codepoint": 61718,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/flashcards.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/flashcards.svg"
     },
     "googleplus": {
       "codepoint": 61711,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/googleplus.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/googleplus.svg"
     },
     "highlightsnotes": {
       "codepoint": 61720,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/highlightsnotes.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/highlightsnotes.svg"
     },
     "joiedevivre": {
       "codepoint": 61703,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/joiedevivre.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/joiedevivre.svg"
     },
     "lasers": {
       "codepoint": 61714,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/lasers.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/lasers.svg"
     },
     "learn": {
-      "codepoint": 61737,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/learn.svg"
+      "codepoint": 61735,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/learn.svg"
     },
     "office": {
       "codepoint": 61705,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/office.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/office.svg"
     },
     "organizeedit": {
       "codepoint": 61727,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/organizeedit.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/organizeedit.svg"
     },
     "peerreview": {
       "codepoint": 61728,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/peerreview.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/peerreview.svg"
     },
     "pepe": {
       "codepoint": 61706,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/pepe.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/pepe.svg"
     },
     "pingpong": {
       "codepoint": 61707,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/pingpong.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/pingpong.svg"
     },
     "ppt": {
       "codepoint": 61736,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/ppt.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/ppt.svg"
     },
     "quizzes": {
       "codepoint": 61719,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/quizzes.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quizzes.svg"
     },
     "quotes": {
       "codepoint": 61724,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/quotes.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/quotes.svg"
     },
     "read": {
       "codepoint": 61731,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/read.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/read.svg"
     },
     "screen": {
       "codepoint": 61708,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/screen.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/screen.svg"
     },
     "search": {
       "codepoint": 61722,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/search.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/search.svg"
     },
     "settings": {
       "codepoint": 61732,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/settings.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/settings.svg"
     },
     "smartnotes": {
       "codepoint": 61721,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/smartnotes.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/smartnotes.svg"
     },
     "standingdesks": {
       "codepoint": 61709,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/standingdesks.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/standingdesks.svg"
     },
     "teach": {
       "codepoint": 61733,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/teach.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/teach.svg"
     },
     "twitter": {
       "codepoint": 61698,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/twitter.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/twitter.svg"
     },
     "videogames": {
       "codepoint": 61710,
-      "source": "/Users/afraser/boundless/node-fontCustom/svg/videogames.svg"
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/videogames.svg"
     }
   },
   "options": {
@@ -155,8 +155,8 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "/Users/afraser/boundless/node-fontCustom/svg",
-      "vectors": "/Users/afraser/boundless/node-fontCustom/svg"
+      "templates": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg",
+      "vectors": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg"
     },
     "no_hash": true,
     "output": {
