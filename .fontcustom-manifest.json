@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "06731c956f5ac9a3298ea1689771bbcf0a057d2e770cf607615766443cc283e8",
-    "current": "06731c956f5ac9a3298ea1689771bbcf0a057d2e770cf607615766443cc283e8"
+    "previous": "18a5fb3d4631d4cf2b06b8d18787ee6f7b184af4e7c08d98c13357e17f884bb1",
+    "current": "18a5fb3d4631d4cf2b06b8d18787ee6f7b184af4e7c08d98c13357e17f884bb1"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -57,6 +57,10 @@
     "flashcards": {
       "codepoint": 61718,
       "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/flashcards.svg"
+    },
+    "gears": {
+      "codepoint": 61740,
+      "source": "/Users/joewebb/Documents/Joe/apps/node-fontCustom/svg/gears.svg"
     },
     "googleplus": {
       "codepoint": 61711,
