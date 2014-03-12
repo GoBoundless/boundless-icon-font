@@ -16,23 +16,28 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "boundless-icon-font";
-    src: font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
+    src: url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
   }
 }
 
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.boundless-icon-approved:before,
+.boundless-icon-assigned:before,
 .boundless-icon-assignments:before,
 .boundless-icon-bike:before,
 .boundless-icon-blog:before,
 .boundless-icon-book:before,
+.boundless-icon-closeissue:before,
+.boundless-icon-commented:before,
 .boundless-icon-competition:before,
 .boundless-icon-courses:before,
 .boundless-icon-curate:before,
 .boundless-icon-dineraccess:before,
 .boundless-icon-download:before,
 .boundless-icon-drink:before,
+.boundless-icon-edit:before,
 .boundless-icon-facebook:before,
 .boundless-icon-flashcards:before,
 .boundless-icon-gears:before,
@@ -42,16 +47,21 @@
 .boundless-icon-lasers:before,
 .boundless-icon-learn:before,
 .boundless-icon-lesson:before,
+.boundless-icon-mentioned:before,
 .boundless-icon-office:before,
+.boundless-icon-openissue:before,
 .boundless-icon-organizeedit:before,
 .boundless-icon-pdf:before,
 .boundless-icon-peerreview:before,
 .boundless-icon-pepe:before,
 .boundless-icon-pingpong:before,
 .boundless-icon-ppt:before,
+.boundless-icon-proposechange:before,
 .boundless-icon-quizzes:before,
 .boundless-icon-quotes:before,
 .boundless-icon-read:before,
+.boundless-icon-rejected:before,
+.boundless-icon-reopenissue:before,
 .boundless-icon-screen:before,
 .boundless-icon-search:before,
 .boundless-icon-settings:before,
@@ -69,23 +79,26 @@
   font-variant: normal;
   line-height: 1;
   text-decoration: inherit;
-  text-rendering: optimizeLegibility;
   text-transform: none;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
 }
 
+.boundless-icon-approved:before { content: "\f130"; }
+.boundless-icon-assigned:before { content: "\f131"; }
 .boundless-icon-assignments:before { content: "\f126"; }
 .boundless-icon-bike:before { content: "\f11b"; }
 .boundless-icon-blog:before { content: "\f129"; }
 .boundless-icon-book:before { content: "\f11d"; }
+.boundless-icon-closeissue:before { content: "\f132"; }
+.boundless-icon-commented:before { content: "\f133"; }
 .boundless-icon-competition:before { content: "\f104"; }
 .boundless-icon-courses:before { content: "\f122"; }
 .boundless-icon-curate:before { content: "\f11e"; }
 .boundless-icon-dineraccess:before { content: "\f105"; }
 .boundless-icon-download:before { content: "\f114"; }
 .boundless-icon-drink:before { content: "\f12a"; }
+.boundless-icon-edit:before { content: "\f134"; }
 .boundless-icon-facebook:before { content: "\f113"; }
 .boundless-icon-flashcards:before { content: "\f116"; }
 .boundless-icon-gears:before { content: "\f12c"; }
@@ -95,16 +108,21 @@
 .boundless-icon-lasers:before { content: "\f112"; }
 .boundless-icon-learn:before { content: "\f127"; }
 .boundless-icon-lesson:before { content: "\f12d"; }
+.boundless-icon-mentioned:before { content: "\f135"; }
 .boundless-icon-office:before { content: "\f109"; }
+.boundless-icon-openissue:before { content: "\f136"; }
 .boundless-icon-organizeedit:before { content: "\f11f"; }
 .boundless-icon-pdf:before { content: "\f12b"; }
 .boundless-icon-peerreview:before { content: "\f120"; }
 .boundless-icon-pepe:before { content: "\f10a"; }
 .boundless-icon-pingpong:before { content: "\f10b"; }
 .boundless-icon-ppt:before { content: "\f128"; }
+.boundless-icon-proposechange:before { content: "\f137"; }
 .boundless-icon-quizzes:before { content: "\f117"; }
 .boundless-icon-quotes:before { content: "\f11c"; }
 .boundless-icon-read:before { content: "\f123"; }
+.boundless-icon-rejected:before { content: "\f138"; }
+.boundless-icon-reopenissue:before { content: "\f139"; }
 .boundless-icon-screen:before { content: "\f10c"; }
 .boundless-icon-search:before { content: "\f11a"; }
 .boundless-icon-settings:before { content: "\f124"; }
