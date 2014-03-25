@@ -8,23 +8,3 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
-[1m[32m     removed[0m  approved.svg, assigned.svg, closeissue.svg, commented.svg, edit.svg, mentioned.svg, openissue.svg, proposechange.svg, rejected.svg, reopenissue.svg
-
-[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
-              prepared/boundless-icon-font/boundless-icon-font.svg
-              prepared/boundless-icon-font/boundless-icon-font.woff
-              prepared/boundless-icon-font/boundless-icon-font.eot
-
-[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
-              styleguide/boundless-icon-font-preview.html
-
-[1m[32m       added[0m  approved.svg, assigned.svg, closeissue.svg, commented.svg, edit.svg, mentioned.svg, openissue.svg, proposechange.svg, rejected.svg, reopenissue.svg
-
-[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
-              prepared/boundless-icon-font/boundless-icon-font.svg
-              prepared/boundless-icon-font/boundless-icon-font.woff
-              prepared/boundless-icon-font/boundless-icon-font.eot
-
-[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
-              styleguide/boundless-icon-font-preview.html
-

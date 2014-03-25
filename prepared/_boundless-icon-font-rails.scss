@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "boundless-icon-font";
-    src: url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
+    src: font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
   }
 }
 
@@ -29,6 +29,8 @@
 .boundless-icon-bike:before,
 .boundless-icon-blog:before,
 .boundless-icon-book:before,
+.boundless-icon-checkmark:before,
+.boundless-icon-clock:before,
 .boundless-icon-closeissue:before,
 .boundless-icon-commented:before,
 .boundless-icon-competition:before,
@@ -79,9 +81,11 @@
   font-variant: normal;
   line-height: 1;
   text-decoration: inherit;
+  text-rendering: optimizeLegibility;
   text-transform: none;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
 }
 
 .boundless-icon-approved:before { content: "\f130"; }
@@ -90,6 +94,8 @@
 .boundless-icon-bike:before { content: "\f11b"; }
 .boundless-icon-blog:before { content: "\f129"; }
 .boundless-icon-book:before { content: "\f11d"; }
+.boundless-icon-checkmark:before { content: "\f13a"; }
+.boundless-icon-clock:before { content: "\f13b"; }
 .boundless-icon-closeissue:before { content: "\f132"; }
 .boundless-icon-commented:before { content: "\f133"; }
 .boundless-icon-competition:before { content: "\f104"; }
