@@ -24,13 +24,20 @@
 
 [data-icon]:before,
 .boundless-icon-approved:before,
+.boundless-icon-arrow-thick:before,
+.boundless-icon-arrow-thin:before,
 .boundless-icon-assigned:before,
 .boundless-icon-assignments:before,
+.boundless-icon-bell:before,
 .boundless-icon-bike:before,
 .boundless-icon-blog:before,
 .boundless-icon-book:before,
+.boundless-icon-bot:before,
 .boundless-icon-checkmark:before,
 .boundless-icon-checkmark_negative:before,
+.boundless-icon-chevron-thick:before,
+.boundless-icon-chevron-thin:before,
+.boundless-icon-circle-check:before,
 .boundless-icon-clock:before,
 .boundless-icon-closeissue:before,
 .boundless-icon-commented:before,
@@ -44,13 +51,17 @@
 .boundless-icon-eye:before,
 .boundless-icon-facebook:before,
 .boundless-icon-flashcards:before,
+.boundless-icon-follow:before,
 .boundless-icon-gears:before,
 .boundless-icon-googleplus:before,
 .boundless-icon-highlightsnotes:before,
+.boundless-icon-issues:before,
 .boundless-icon-joiedevivre:before,
 .boundless-icon-lasers:before,
 .boundless-icon-learn:before,
 .boundless-icon-lesson:before,
+.boundless-icon-login:before,
+.boundless-icon-logout:before,
 .boundless-icon-mentioned:before,
 .boundless-icon-office:before,
 .boundless-icon-openissue:before,
@@ -59,6 +70,7 @@
 .boundless-icon-peerreview:before,
 .boundless-icon-pepe:before,
 .boundless-icon-pingpong:before,
+.boundless-icon-plus:before,
 .boundless-icon-ppt:before,
 .boundless-icon-proposechange:before,
 .boundless-icon-quizzes:before,
@@ -71,11 +83,17 @@
 .boundless-icon-settings:before,
 .boundless-icon-smartnotes:before,
 .boundless-icon-standingdesks:before,
+.boundless-icon-star:before,
 .boundless-icon-teach:before,
 .boundless-icon-toreview:before,
+.boundless-icon-triangle:before,
 .boundless-icon-twitter:before,
+.boundless-icon-updatechange:before,
 .boundless-icon-user:before,
-.boundless-icon-videogames:before {
+.boundless-icon-videogames:before,
+.boundless-icon-worddoc:before,
+.boundless-icon-x:before,
+.boundless-icon-x_negative:before {
   display: inline-block;
   font-family: "boundless-icon-font";
   font-style: normal;
@@ -91,13 +109,20 @@
 }
 
 .boundless-icon-approved:before { content: "\f130"; }
+.boundless-icon-arrow-thick:before { content: "\f13e"; }
+.boundless-icon-arrow-thin:before { content: "\f13f"; }
 .boundless-icon-assigned:before { content: "\f131"; }
 .boundless-icon-assignments:before { content: "\f126"; }
+.boundless-icon-bell:before { content: "\f140"; }
 .boundless-icon-bike:before { content: "\f11b"; }
 .boundless-icon-blog:before { content: "\f129"; }
 .boundless-icon-book:before { content: "\f11d"; }
+.boundless-icon-bot:before { content: "\f141"; }
 .boundless-icon-checkmark:before { content: "\f13a"; }
 .boundless-icon-checkmark_negative:before { content: "\f13c"; }
+.boundless-icon-chevron-thick:before { content: "\f142"; }
+.boundless-icon-chevron-thin:before { content: "\f143"; }
+.boundless-icon-circle-check:before { content: "\f144"; }
 .boundless-icon-clock:before { content: "\f13b"; }
 .boundless-icon-closeissue:before { content: "\f132"; }
 .boundless-icon-commented:before { content: "\f133"; }
@@ -111,13 +136,17 @@
 .boundless-icon-eye:before { content: "\f13d"; }
 .boundless-icon-facebook:before { content: "\f113"; }
 .boundless-icon-flashcards:before { content: "\f116"; }
+.boundless-icon-follow:before { content: "\f145"; }
 .boundless-icon-gears:before { content: "\f12c"; }
 .boundless-icon-googleplus:before { content: "\f10f"; }
 .boundless-icon-highlightsnotes:before { content: "\f118"; }
+.boundless-icon-issues:before { content: "\f146"; }
 .boundless-icon-joiedevivre:before { content: "\f107"; }
 .boundless-icon-lasers:before { content: "\f112"; }
 .boundless-icon-learn:before { content: "\f127"; }
 .boundless-icon-lesson:before { content: "\f12d"; }
+.boundless-icon-login:before { content: "\f147"; }
+.boundless-icon-logout:before { content: "\f148"; }
 .boundless-icon-mentioned:before { content: "\f135"; }
 .boundless-icon-office:before { content: "\f109"; }
 .boundless-icon-openissue:before { content: "\f136"; }
@@ -126,6 +155,7 @@
 .boundless-icon-peerreview:before { content: "\f120"; }
 .boundless-icon-pepe:before { content: "\f10a"; }
 .boundless-icon-pingpong:before { content: "\f10b"; }
+.boundless-icon-plus:before { content: "\f149"; }
 .boundless-icon-ppt:before { content: "\f128"; }
 .boundless-icon-proposechange:before { content: "\f137"; }
 .boundless-icon-quizzes:before { content: "\f117"; }
@@ -138,8 +168,14 @@
 .boundless-icon-settings:before { content: "\f124"; }
 .boundless-icon-smartnotes:before { content: "\f119"; }
 .boundless-icon-standingdesks:before { content: "\f10d"; }
+.boundless-icon-star:before { content: "\f14a"; }
 .boundless-icon-teach:before { content: "\f125"; }
 .boundless-icon-toreview:before { content: "\f12e"; }
+.boundless-icon-triangle:before { content: "\f14b"; }
 .boundless-icon-twitter:before { content: "\f102"; }
+.boundless-icon-updatechange:before { content: "\f14c"; }
 .boundless-icon-user:before { content: "\f12f"; }
 .boundless-icon-videogames:before { content: "\f10e"; }
+.boundless-icon-worddoc:before { content: "\f14d"; }
+.boundless-icon-x:before { content: "\f14e"; }
+.boundless-icon-x_negative:before { content: "\f14f"; }
