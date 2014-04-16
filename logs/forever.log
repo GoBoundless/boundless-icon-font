@@ -4264,3 +4264,202 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 err: 2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: register_with_server: ERROR: f2d_register_rpc() => (ipc/mig) server died (-308)
 2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: re-registering with server failed and returned -308 (f2d port 0x0)
 
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 1 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 2 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 3 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 4 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 5 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 6 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 7 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 8 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 9 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 10 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 11 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 12 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 13 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 14 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 15 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 16 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 17 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 18 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+error: Forever restarting script for 19 time
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: spawn ENOENT
+    at errnoException (child_process.js:988:11)
+    at Process.ChildProcess._handle.onexit (child_process.js:779:34)
+error: Forever detected script exited with code: 8
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  customize.svg, save.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+

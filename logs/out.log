@@ -8,7 +8,7 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
-[1m[32m       added[0m  arrow-thick.svg, arrow-thin.svg, bell.svg, bot.svg, chevron-thick.svg, chevron-thin.svg, circle-check.svg, follow.svg, issues.svg, login.svg, logout.svg, plus.svg, star.svg, triangle.svg, updatechange.svg, worddoc.svg, x.svg, x_negative.svg
+[1m[32m       added[0m  customize.svg, save.svg
 
 [1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
               prepared/boundless-icon-font/boundless-icon-font.svg
@@ -17,7 +17,4 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
-
-err: 2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: register_with_server: ERROR: f2d_register_rpc() => (ipc/mig) server died (-308)
-2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: re-registering with server failed and returned -308 (f2d port 0x0)
 
