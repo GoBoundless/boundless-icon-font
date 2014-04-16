@@ -18,3 +18,6 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
+err: 2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: register_with_server: ERROR: f2d_register_rpc() => (ipc/mig) server died (-308)
+2014-04-16 10:30 fsevent_watch[27967] (CarbonCore.framework) server_gone_StreamRef_callback: re-registering with server failed and returned -308 (f2d port 0x0)
+
