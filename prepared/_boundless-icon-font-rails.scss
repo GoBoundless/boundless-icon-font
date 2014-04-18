@@ -8,8 +8,7 @@
   src: font-url("boundless-icon-font/boundless-icon-font.eot?#iefix") format("embedded-opentype"),
        font-url("boundless-icon-font/boundless-icon-font.woff") format("woff"),
        font-url("boundless-icon-font/boundless-icon-font.ttf") format("truetype"),
-       font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg"),
-       asset-data-url("boundless-icon-font/boundless-icon-font.woff") format("woff");
+       font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -58,6 +57,7 @@
 .boundless-icon-gears:before,
 .boundless-icon-googleplus:before,
 .boundless-icon-highlightsnotes:before,
+.boundless-icon-history:before,
 .boundless-icon-issues:before,
 .boundless-icon-joiedevivre:before,
 .boundless-icon-lasers:before,
@@ -146,6 +146,7 @@
 .boundless-icon-gears:before { content: "\f12c"; }
 .boundless-icon-googleplus:before { content: "\f10f"; }
 .boundless-icon-highlightsnotes:before { content: "\f118"; }
+.boundless-icon-history:before { content: "\f153"; }
 .boundless-icon-issues:before { content: "\f146"; }
 .boundless-icon-joiedevivre:before { content: "\f107"; }
 .boundless-icon-lasers:before { content: "\f112"; }
