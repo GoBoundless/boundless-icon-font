@@ -1,5 +1,9 @@
 Font Custom is watching your icons. Press Ctrl + C to stop.
 
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     changed[0m  book.svg, flashcards.svg, ppt.svg, quizzes.svg
+
 [1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
               prepared/boundless-icon-font/boundless-icon-font.svg
               prepared/boundless-icon-font/boundless-icon-font.woff
@@ -7,8 +11,4 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
-
-[1m[32m     changed[0m  history.svg
-
-[1m[32m      status[0m  No changes detected. Skipping compile.
 
