@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "04de6b92b295a5fa2099eee3d64ac48aeaf5611e29c242ca3f8eef083bc2053e",
-    "current": "04de6b92b295a5fa2099eee3d64ac48aeaf5611e29c242ca3f8eef083bc2053e"
+    "previous": "e8179ab4bc87d0e0acbd553734871914b0f7697055f3a1900c2273f8ef90b895",
+    "current": "e8179ab4bc87d0e0acbd553734871914b0f7697055f3a1900c2273f8ef90b895"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -105,6 +105,10 @@
     "dineraccess": {
       "codepoint": 61701,
       "source": "/Users/ericfields/Boundless/boundless-icon-font/svg/dineraccess.svg"
+    },
+    "discussion": {
+      "codepoint": 61780,
+      "source": "/Users/ericfields/Boundless/boundless-icon-font/svg/discussion.svg"
     },
     "download": {
       "codepoint": 61716,
@@ -213,6 +217,10 @@
     "plus": {
       "codepoint": 61769,
       "source": "/Users/ericfields/Boundless/boundless-icon-font/svg/plus.svg"
+    },
+    "powerpoint-righttab": {
+      "codepoint": 61781,
+      "source": "/Users/ericfields/Boundless/boundless-icon-font/svg/powerpoint-righttab.svg"
     },
     "ppt": {
       "codepoint": 61736,
