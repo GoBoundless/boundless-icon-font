@@ -9,6 +9,7 @@
        font-url("boundless-icon-font/boundless-icon-font.woff") format("woff"),
        font-url("boundless-icon-font/boundless-icon-font.ttf") format("truetype"),
        font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
+       asset-data-url("boundless-icon-font/boundless-icon-font.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -90,6 +91,7 @@
 .boundless-icon-smartnotes:before,
 .boundless-icon-standingdesks:before,
 .boundless-icon-star:before,
+.boundless-icon-start:before,
 .boundless-icon-teach:before,
 .boundless-icon-toreview:before,
 .boundless-icon-triangle:before,
@@ -181,6 +183,7 @@
 .boundless-icon-smartnotes:before { content: "\f119"; }
 .boundless-icon-standingdesks:before { content: "\f10d"; }
 .boundless-icon-star:before { content: "\f14a"; }
+.boundless-icon-start:before { content: "\f154"; }
 .boundless-icon-teach:before { content: "\f125"; }
 .boundless-icon-toreview:before { content: "\f12e"; }
 .boundless-icon-triangle:before { content: "\f14b"; }

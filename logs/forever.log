@@ -4477,9 +4477,12 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 
 [1m[32m      status[0m  No changes detected. Skipping compile.
 
+<<<<<<< HEAD
 [1m[32m     changed[0m  assignments.svg
 
 [1m[32m       added[0m  discussion.svg, powerpoint-righttab.svg
+=======
+Font Custom is watching your icons. Press Ctrl + C to stop.
 
 [1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
               prepared/boundless-icon-font/boundless-icon-font.svg
@@ -4489,3 +4492,157 @@ Font Custom is watching your icons. Press Ctrl + C to stop.
 [1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+[1m[32m      status[0m  No changes detected. Skipping compile.
+
+[1m[32m     changed[0m  book.svg, flashcards.svg, ppt.svg, quizzes.svg
+>>>>>>> 4bdf97da66fcf3420ad715fd3a8fb1cfc37267b4
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 1 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 2 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 3 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 4 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 5 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 6 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 7 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 8 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 9 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 10 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 11 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 12 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 13 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 14 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 15 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 16 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 17 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 18 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
+error: Forever restarting script for 19 time
+Font Custom is watching your icons. Press Ctrl + C to stop.
+
+       error  Couldn't parse `.fontcustom-manifest.json`. Fix any invalid JSON or delete the file to start from scratch.
+
+fontCustom folder watcher exited with code: 0
+error: Forever detected script was killed by signal: null
