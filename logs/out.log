@@ -1,12 +1,20 @@
 Font Custom is watching your icons. Press Ctrl + C to stop.
 
-      create  .fontcustom-manifest.json
-
-      create  prepared/boundless-icon-font/boundless-icon-font.ttf
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
               prepared/boundless-icon-font/boundless-icon-font.svg
               prepared/boundless-icon-font/boundless-icon-font.woff
               prepared/boundless-icon-font/boundless-icon-font.eot
 
-      create  prepared/_boundless-icon-font-rails.scss
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
+              styleguide/boundless-icon-font-preview.html
+
+[1m[32m       added[0m  empty_allopen.svg, empty_assigned.svg, empty_awaitingapproval.svg, empty_awaitingreview.svg, empty_completed.svg, empty_inprogress.svg, empty_proposed.svg
+
+[1m[32m      create[0m  prepared/boundless-icon-font/boundless-icon-font.ttf
+              prepared/boundless-icon-font/boundless-icon-font.svg
+              prepared/boundless-icon-font/boundless-icon-font.woff
+              prepared/boundless-icon-font/boundless-icon-font.eot
+
+[1m[32m      create[0m  prepared/_boundless-icon-font-rails.scss
               styleguide/boundless-icon-font-preview.html
 
