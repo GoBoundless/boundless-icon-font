@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "6df75b9c4864b613be463d9ea972a351b53c01eda622f4bb5bb8830d2dfe0c2c",
-    "current": "6df75b9c4864b613be463d9ea972a351b53c01eda622f4bb5bb8830d2dfe0c2c"
+    "previous": "2b510e9506320c5342bffd8de136c07c635c0f24454791551b629a8d7f9d0ab4",
+    "current": "2b510e9506320c5342bffd8de136c07c635c0f24454791551b629a8d7f9d0ab4"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -262,6 +262,10 @@
       "codepoint": 61751,
       "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/proposechange.svg"
     },
+    "quiz-righttab": {
+      "codepoint": 61791,
+      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/quiz-righttab.svg"
+    },
     "quizzes": {
       "codepoint": 61719,
       "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/quizzes.svg"
@@ -273,6 +277,10 @@
     "read": {
       "codepoint": 61731,
       "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/read.svg"
+    },
+    "reading-righttab": {
+      "codepoint": 61792,
+      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/reading-righttab.svg"
     },
     "rejected": {
       "codepoint": 61752,
