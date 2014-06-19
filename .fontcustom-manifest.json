@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "2b510e9506320c5342bffd8de136c07c635c0f24454791551b629a8d7f9d0ab4",
-    "current": "2b510e9506320c5342bffd8de136c07c635c0f24454791551b629a8d7f9d0ab4"
+    "previous": "e6f422e39a07dc624a80534812d08fed3232a8ba15fd067fb7509721b8966b11",
+    "current": "e6f422e39a07dc624a80534812d08fed3232a8ba15fd067fb7509721b8966b11"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -12,355 +12,359 @@
   "glyphs": {
     "approved": {
       "codepoint": 61744,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/approved.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/approved.svg"
     },
     "arrow-thick": {
       "codepoint": 61758,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/arrow-thick.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/arrow-thick.svg"
     },
     "arrow-thin": {
       "codepoint": 61759,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/arrow-thin.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/arrow-thin.svg"
     },
     "assign": {
       "codepoint": 61776,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/assign.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/assign.svg"
     },
     "assigned": {
       "codepoint": 61745,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/assigned.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/assigned.svg"
     },
     "assignments": {
       "codepoint": 61734,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/assignments.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/assignments.svg"
     },
     "bell": {
       "codepoint": 61760,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/bell.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/bell.svg"
     },
     "bike": {
       "codepoint": 61723,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/bike.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/bike.svg"
     },
     "blog": {
       "codepoint": 61737,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/blog.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/blog.svg"
     },
     "book": {
       "codepoint": 61725,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/book.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/book.svg"
     },
     "bot": {
       "codepoint": 61761,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/bot.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/bot.svg"
     },
     "bot-blank": {
       "codepoint": 61783,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/bot-blank.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/bot-blank.svg"
     },
     "checkmark": {
       "codepoint": 61754,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/checkmark.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/checkmark.svg"
     },
     "checkmark_negative": {
       "codepoint": 61756,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/checkmark_negative.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/checkmark_negative.svg"
     },
     "chevron-thick": {
       "codepoint": 61762,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/chevron-thick.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/chevron-thick.svg"
     },
     "chevron-thin": {
       "codepoint": 61763,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/chevron-thin.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/chevron-thin.svg"
     },
     "circle-check": {
       "codepoint": 61764,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/circle-check.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/circle-check.svg"
     },
     "clock": {
       "codepoint": 61755,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/clock.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/clock.svg"
     },
     "closeissue": {
       "codepoint": 61746,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/closeissue.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/closeissue.svg"
     },
     "commented": {
       "codepoint": 61747,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/commented.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/commented.svg"
     },
     "competition": {
       "codepoint": 61700,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/competition.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/competition.svg"
     },
     "courses": {
       "codepoint": 61730,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/courses.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/courses.svg"
     },
     "curate": {
       "codepoint": 61726,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/curate.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/curate.svg"
     },
     "customize": {
       "codepoint": 61777,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/customize.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/customize.svg"
     },
     "dineraccess": {
       "codepoint": 61701,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/dineraccess.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/dineraccess.svg"
     },
     "discussion": {
       "codepoint": 61781,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/discussion.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/discussion.svg"
     },
     "download": {
       "codepoint": 61716,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/download.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/download.svg"
     },
     "drink": {
       "codepoint": 61738,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/drink.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/drink.svg"
     },
     "edit": {
       "codepoint": 61748,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/edit.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/edit.svg"
     },
     "empty_allopen": {
       "codepoint": 61784,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_allopen.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_allopen.svg"
     },
     "empty_assigned": {
       "codepoint": 61785,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_assigned.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_assigned.svg"
     },
     "empty_awaitingapproval": {
       "codepoint": 61786,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_awaitingapproval.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_awaitingapproval.svg"
     },
     "empty_awaitingreview": {
       "codepoint": 61787,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_awaitingreview.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_awaitingreview.svg"
     },
     "empty_completed": {
       "codepoint": 61788,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_completed.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_completed.svg"
     },
     "empty_inprogress": {
       "codepoint": 61789,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_inprogress.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_inprogress.svg"
     },
     "empty_proposed": {
       "codepoint": 61790,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/empty_proposed.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/empty_proposed.svg"
+    },
+    "error": {
+      "codepoint": 61793,
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/error.svg"
     },
     "eye": {
       "codepoint": 61757,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/eye.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/eye.svg"
     },
     "facebook": {
       "codepoint": 61715,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/facebook.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/facebook.svg"
     },
     "flashcards": {
       "codepoint": 61718,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/flashcards.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/flashcards.svg"
     },
     "follow": {
       "codepoint": 61765,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/follow.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/follow.svg"
     },
     "gears": {
       "codepoint": 61740,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/gears.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/gears.svg"
     },
     "googleplus": {
       "codepoint": 61711,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/googleplus.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/googleplus.svg"
     },
     "highlightsnotes": {
       "codepoint": 61720,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/highlightsnotes.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/highlightsnotes.svg"
     },
     "history": {
       "codepoint": 61779,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/history.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/history.svg"
     },
     "issues": {
       "codepoint": 61766,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/issues.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/issues.svg"
     },
     "joiedevivre": {
       "codepoint": 61703,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/joiedevivre.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/joiedevivre.svg"
     },
     "lasers": {
       "codepoint": 61714,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/lasers.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/lasers.svg"
     },
     "learn": {
       "codepoint": 61735,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/learn.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/learn.svg"
     },
     "lesson": {
       "codepoint": 61741,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/lesson.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/lesson.svg"
     },
     "login": {
       "codepoint": 61767,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/login.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/login.svg"
     },
     "logout": {
       "codepoint": 61768,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/logout.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/logout.svg"
     },
     "mentioned": {
       "codepoint": 61749,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/mentioned.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/mentioned.svg"
     },
     "office": {
       "codepoint": 61705,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/office.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/office.svg"
     },
     "openissue": {
       "codepoint": 61750,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/openissue.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/openissue.svg"
     },
     "organizeedit": {
       "codepoint": 61727,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/organizeedit.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/organizeedit.svg"
     },
     "pdf": {
       "codepoint": 61739,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/pdf.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/pdf.svg"
     },
     "peerreview": {
       "codepoint": 61728,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/peerreview.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/peerreview.svg"
     },
     "pepe": {
       "codepoint": 61706,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/pepe.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/pepe.svg"
     },
     "pingpong": {
       "codepoint": 61707,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/pingpong.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/pingpong.svg"
     },
     "plus": {
       "codepoint": 61769,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/plus.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/plus.svg"
     },
     "powerpoint-righttab": {
       "codepoint": 61782,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/powerpoint-righttab.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/powerpoint-righttab.svg"
     },
     "ppt": {
       "codepoint": 61736,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/ppt.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/ppt.svg"
     },
     "proposechange": {
       "codepoint": 61751,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/proposechange.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/proposechange.svg"
     },
     "quiz-righttab": {
       "codepoint": 61791,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/quiz-righttab.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/quiz-righttab.svg"
     },
     "quizzes": {
       "codepoint": 61719,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/quizzes.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/quizzes.svg"
     },
     "quotes": {
       "codepoint": 61724,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/quotes.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/quotes.svg"
     },
     "read": {
       "codepoint": 61731,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/read.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/read.svg"
     },
     "reading-righttab": {
       "codepoint": 61792,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/reading-righttab.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/reading-righttab.svg"
     },
     "rejected": {
       "codepoint": 61752,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/rejected.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/rejected.svg"
     },
     "reopenissue": {
       "codepoint": 61753,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/reopenissue.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/reopenissue.svg"
     },
     "save": {
       "codepoint": 61778,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/save.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/save.svg"
     },
     "screen": {
       "codepoint": 61708,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/screen.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/screen.svg"
     },
     "search": {
       "codepoint": 61722,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/search.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/search.svg"
     },
     "settings": {
       "codepoint": 61732,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/settings.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/settings.svg"
     },
     "smartnotes": {
       "codepoint": 61721,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/smartnotes.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/smartnotes.svg"
     },
     "standingdesks": {
       "codepoint": 61709,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/standingdesks.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/standingdesks.svg"
     },
     "star": {
       "codepoint": 61770,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/star.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/star.svg"
     },
     "start": {
       "codepoint": 61780,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/start.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/start.svg"
     },
     "teach": {
       "codepoint": 61733,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/teach.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/teach.svg"
     },
     "toreview": {
       "codepoint": 61742,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/toreview.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/toreview.svg"
     },
     "triangle": {
       "codepoint": 61771,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/triangle.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/triangle.svg"
     },
     "twitter": {
       "codepoint": 61698,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/twitter.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/twitter.svg"
     },
     "updatechange": {
       "codepoint": 61772,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/updatechange.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/updatechange.svg"
     },
     "user": {
       "codepoint": 61743,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/user.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/user.svg"
     },
     "videogames": {
       "codepoint": 61710,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/videogames.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/videogames.svg"
     },
     "worddoc": {
       "codepoint": 61773,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/worddoc.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/worddoc.svg"
     },
     "x": {
       "codepoint": 61774,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/x.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/x.svg"
     },
     "x_negative": {
       "codepoint": 61775,
-      "source": "/Users/sarahmeyer/projects/boundless-icon-font/svg/x_negative.svg"
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/x_negative.svg"
     }
   },
   "options": {
@@ -371,8 +375,8 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "/Users/sarahmeyer/projects/boundless-icon-font/svg",
-      "vectors": "/Users/sarahmeyer/projects/boundless-icon-font/svg"
+      "templates": "/Users/joewebb/apps/boundless-icon-font/svg",
+      "vectors": "/Users/joewebb/apps/boundless-icon-font/svg"
     },
     "no_hash": true,
     "output": {
