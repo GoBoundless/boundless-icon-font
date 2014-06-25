@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e6f422e39a07dc624a80534812d08fed3232a8ba15fd067fb7509721b8966b11",
-    "current": "e6f422e39a07dc624a80534812d08fed3232a8ba15fd067fb7509721b8966b11"
+    "previous": "f6c8e039479c80ed98f28e84c8af26fc2a17ab57c87215db1d056018669061f5",
+    "current": "f6c8e039479c80ed98f28e84c8af26fc2a17ab57c87215db1d056018669061f5"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -121,6 +121,10 @@
     "drink": {
       "codepoint": 61738,
       "source": "/Users/joewebb/apps/boundless-icon-font/svg/drink.svg"
+    },
+    "dup_and_edit": {
+      "codepoint": 61794,
+      "source": "/Users/joewebb/apps/boundless-icon-font/svg/dup_and_edit.svg"
     },
     "edit": {
       "codepoint": 61748,
