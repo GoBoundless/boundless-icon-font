@@ -8,7 +8,8 @@
   src: font-url("boundless-icon-font/boundless-icon-font.eot?#iefix") format("embedded-opentype"),
        font-url("boundless-icon-font/boundless-icon-font.woff") format("woff"),
        font-url("boundless-icon-font/boundless-icon-font.ttf") format("truetype"),
-       font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg");
+       font-url("boundless-icon-font/boundless-icon-font.svg#boundless-icon-font") format("svg"),
+       asset-data-url("boundless-icon-font/boundless-icon-font.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -54,6 +55,7 @@
 .boundless-icon-drink:before,
 .boundless-icon-dup_and_edit:before,
 .boundless-icon-edit:before,
+.boundless-icon-embed:before,
 .boundless-icon-empty_allopen:before,
 .boundless-icon-empty_assigned:before,
 .boundless-icon-empty_awaitingapproval:before,
@@ -159,6 +161,7 @@
 .boundless-icon-drink:before { content: "\f12a"; }
 .boundless-icon-dup_and_edit:before { content: "\f162"; }
 .boundless-icon-edit:before { content: "\f134"; }
+.boundless-icon-embed:before { content: "\f164"; }
 .boundless-icon-empty_allopen:before { content: "\f158"; }
 .boundless-icon-empty_assigned:before { content: "\f159"; }
 .boundless-icon-empty_awaitingapproval:before { content: "\f15a"; }
