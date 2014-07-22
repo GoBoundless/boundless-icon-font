@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b6106e8ca984382502d9101cf14f3477c06fde1738222355378800750fd1f770",
-    "current": "b6106e8ca984382502d9101cf14f3477c06fde1738222355378800750fd1f770"
+    "previous": "40c7334ea342d807b5f41f36ceee06f72669b5d5d7b9f86d4f9932105ec5b861",
+    "current": "40c7334ea342d807b5f41f36ceee06f72669b5d5d7b9f86d4f9932105ec5b861"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -277,6 +277,10 @@
     "proposechange": {
       "codepoint": 61751,
       "source": "svg/proposechange.svg"
+    },
+    "question": {
+      "codepoint": 61797,
+      "source": "svg/question.svg"
     },
     "quiz-righttab": {
       "codepoint": 61791,
