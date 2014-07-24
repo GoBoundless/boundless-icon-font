@@ -31,9 +31,7 @@ node start.js
 3. Visit the styleguide folder to preview your font in the browser.
 
 Specific to Boundless Learning App:
-4. To move the updated font into the Boundless app, look in the “prepared” folder and:
-   -Copy the stylesheet to wherever you need it in the app.
-   -The stylesheet references the font files via sass-rails’ “font-url()” shortcut. Make sure you place the ENTIRE boundless-icon-font folder into your font directory (overwrite)
+4. Assuming your www repo is in the same directory as boundless-icon-font, simply run ./update_www.sh
 
 
 Notes:
