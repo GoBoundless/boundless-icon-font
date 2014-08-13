@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0c388f375a0e4946d6a7f4c501044d10147c9388b7ff0fe49c55eaa4b07fbba6",
-    "current": "0c388f375a0e4946d6a7f4c501044d10147c9388b7ff0fe49c55eaa4b07fbba6"
+    "previous": "fbb58dfb168c0045108b9f4c401a1d81835101277e2eb4198bea1b71081a45a2",
+    "current": "fbb58dfb168c0045108b9f4c401a1d81835101277e2eb4198bea1b71081a45a2"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -53,10 +53,6 @@
     "bot": {
       "codepoint": 61761,
       "source": "./svg/bot.svg"
-    },
-    "bot-blank": {
-      "codepoint": 61783,
-      "source": "./svg/bot-blank.svg"
     },
     "checkmark": {
       "codepoint": 61754,
@@ -133,6 +129,10 @@
     "edit": {
       "codepoint": 61748,
       "source": "./svg/edit.svg"
+    },
+    "educator": {
+      "codepoint": 61799,
+      "source": "./svg/educator.svg"
     },
     "embed": {
       "codepoint": 61796,
@@ -286,13 +286,13 @@
       "codepoint": 61797,
       "source": "./svg/question.svg"
     },
+    "quiz": {
+      "codepoint": 61800,
+      "source": "./svg/quiz.svg"
+    },
     "quiz-righttab": {
       "codepoint": 61791,
       "source": "./svg/quiz-righttab.svg"
-    },
-    "quizzes": {
-      "codepoint": 61719,
-      "source": "./svg/quizzes.svg"
     },
     "quotes": {
       "codepoint": 61724,
@@ -301,6 +301,10 @@
     "read": {
       "codepoint": 61731,
       "source": "./svg/read.svg"
+    },
+    "reading": {
+      "codepoint": 61801,
+      "source": "./svg/reading.svg"
     },
     "reading-righttab": {
       "codepoint": 61792,
