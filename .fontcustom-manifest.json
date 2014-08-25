@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "fbb58dfb168c0045108b9f4c401a1d81835101277e2eb4198bea1b71081a45a2",
-    "current": "fbb58dfb168c0045108b9f4c401a1d81835101277e2eb4198bea1b71081a45a2"
+    "previous": "1d6b4e73c941db797de8a64b6c11afd69254b9aa2e7a0a3f9f254a6bf31f8a82",
+    "current": "1d6b4e73c941db797de8a64b6c11afd69254b9aa2e7a0a3f9f254a6bf31f8a82"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -333,6 +333,10 @@
     "settings": {
       "codepoint": 61732,
       "source": "./svg/settings.svg"
+    },
+    "signup": {
+      "codepoint": 61802,
+      "source": "./svg/signup.svg"
     },
     "smartnotes": {
       "codepoint": 61721,
