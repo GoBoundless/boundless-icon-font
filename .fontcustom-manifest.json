@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7b42d2606f40afc94c8271c802069bd19124b97c120fcb838870e96f2378f9c8",
-    "current": "7b42d2606f40afc94c8271c802069bd19124b97c120fcb838870e96f2378f9c8"
+    "previous": "15f8ad7c48d0780e0d07b244ba8ce27fbfdf3ac7bc139419674b6df0c74b2343",
+    "current": "15f8ad7c48d0780e0d07b244ba8ce27fbfdf3ac7bc139419674b6df0c74b2343"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -10,393 +10,397 @@
     "prepared/boundless-icon-font/boundless-icon-font.eot"
   ],
   "glyphs": {
+    "activity": {
+      "codepoint": 61794,
+      "source": "./svg/activity.svg"
+    },
     "approved": {
       "codepoint": 61696,
-      "source": "svg/approved.svg"
+      "source": "./svg/approved.svg"
     },
     "arrow-thick": {
       "codepoint": 61697,
-      "source": "svg/arrow-thick.svg"
+      "source": "./svg/arrow-thick.svg"
     },
     "arrow-thin": {
       "codepoint": 61698,
-      "source": "svg/arrow-thin.svg"
+      "source": "./svg/arrow-thin.svg"
     },
     "assign": {
       "codepoint": 61699,
-      "source": "svg/assign.svg"
+      "source": "./svg/assign.svg"
     },
     "assigned": {
       "codepoint": 61700,
-      "source": "svg/assigned.svg"
+      "source": "./svg/assigned.svg"
     },
     "assignments": {
       "codepoint": 61701,
-      "source": "svg/assignments.svg"
+      "source": "./svg/assignments.svg"
     },
     "bell": {
       "codepoint": 61702,
-      "source": "svg/bell.svg"
+      "source": "./svg/bell.svg"
     },
     "bike": {
       "codepoint": 61703,
-      "source": "svg/bike.svg"
+      "source": "./svg/bike.svg"
     },
     "blog": {
       "codepoint": 61704,
-      "source": "svg/blog.svg"
+      "source": "./svg/blog.svg"
     },
     "book": {
       "codepoint": 61705,
-      "source": "svg/book.svg"
+      "source": "./svg/book.svg"
     },
     "bot": {
       "codepoint": 61706,
-      "source": "svg/bot.svg"
+      "source": "./svg/bot.svg"
     },
     "checkmark": {
       "codepoint": 61707,
-      "source": "svg/checkmark.svg"
+      "source": "./svg/checkmark.svg"
     },
     "checkmark_negative": {
       "codepoint": 61708,
-      "source": "svg/checkmark_negative.svg"
+      "source": "./svg/checkmark_negative.svg"
     },
     "chevron-thick": {
       "codepoint": 61709,
-      "source": "svg/chevron-thick.svg"
+      "source": "./svg/chevron-thick.svg"
     },
     "chevron-thin": {
       "codepoint": 61710,
-      "source": "svg/chevron-thin.svg"
+      "source": "./svg/chevron-thin.svg"
     },
     "circle-check": {
       "codepoint": 61711,
-      "source": "svg/circle-check.svg"
+      "source": "./svg/circle-check.svg"
     },
     "clock": {
       "codepoint": 61712,
-      "source": "svg/clock.svg"
+      "source": "./svg/clock.svg"
     },
     "closeissue": {
       "codepoint": 61713,
-      "source": "svg/closeissue.svg"
+      "source": "./svg/closeissue.svg"
     },
     "commented": {
       "codepoint": 61714,
-      "source": "svg/commented.svg"
+      "source": "./svg/commented.svg"
     },
     "competition": {
       "codepoint": 61715,
-      "source": "svg/competition.svg"
+      "source": "./svg/competition.svg"
     },
     "concept": {
       "codepoint": 61716,
-      "source": "svg/concept.svg"
+      "source": "./svg/concept.svg"
     },
     "courses": {
       "codepoint": 61717,
-      "source": "svg/courses.svg"
+      "source": "./svg/courses.svg"
     },
     "curate": {
       "codepoint": 61718,
-      "source": "svg/curate.svg"
+      "source": "./svg/curate.svg"
     },
     "customize": {
       "codepoint": 61719,
-      "source": "svg/customize.svg"
+      "source": "./svg/customize.svg"
     },
     "dineraccess": {
       "codepoint": 61720,
-      "source": "svg/dineraccess.svg"
+      "source": "./svg/dineraccess.svg"
     },
     "discussion": {
       "codepoint": 61721,
-      "source": "svg/discussion.svg"
+      "source": "./svg/discussion.svg"
     },
     "download": {
       "codepoint": 61722,
-      "source": "svg/download.svg"
+      "source": "./svg/download.svg"
     },
     "drink": {
       "codepoint": 61723,
-      "source": "svg/drink.svg"
+      "source": "./svg/drink.svg"
     },
     "dup_and_edit": {
       "codepoint": 61724,
-      "source": "svg/dup_and_edit.svg"
+      "source": "./svg/dup_and_edit.svg"
     },
     "edit": {
       "codepoint": 61725,
-      "source": "svg/edit.svg"
+      "source": "./svg/edit.svg"
     },
     "educator": {
       "codepoint": 61726,
-      "source": "svg/educator.svg"
+      "source": "./svg/educator.svg"
     },
     "embed": {
       "codepoint": 61727,
-      "source": "svg/embed.svg"
+      "source": "./svg/embed.svg"
     },
     "empty_allopen": {
       "codepoint": 61728,
-      "source": "svg/empty_allopen.svg"
+      "source": "./svg/empty_allopen.svg"
     },
     "empty_assigned": {
       "codepoint": 61729,
-      "source": "svg/empty_assigned.svg"
+      "source": "./svg/empty_assigned.svg"
     },
     "empty_awaitingapproval": {
       "codepoint": 61730,
-      "source": "svg/empty_awaitingapproval.svg"
+      "source": "./svg/empty_awaitingapproval.svg"
     },
     "empty_awaitingreview": {
       "codepoint": 61731,
-      "source": "svg/empty_awaitingreview.svg"
+      "source": "./svg/empty_awaitingreview.svg"
     },
     "empty_completed": {
       "codepoint": 61732,
-      "source": "svg/empty_completed.svg"
+      "source": "./svg/empty_completed.svg"
     },
     "empty_inprogress": {
       "codepoint": 61733,
-      "source": "svg/empty_inprogress.svg"
+      "source": "./svg/empty_inprogress.svg"
     },
     "empty_proposed": {
       "codepoint": 61734,
-      "source": "svg/empty_proposed.svg"
+      "source": "./svg/empty_proposed.svg"
     },
     "error": {
       "codepoint": 61735,
-      "source": "svg/error.svg"
+      "source": "./svg/error.svg"
     },
     "eye": {
       "codepoint": 61736,
-      "source": "svg/eye.svg"
+      "source": "./svg/eye.svg"
     },
     "facebook": {
       "codepoint": 61737,
-      "source": "svg/facebook.svg"
+      "source": "./svg/facebook.svg"
     },
     "flashcards": {
       "codepoint": 61738,
-      "source": "svg/flashcards.svg"
+      "source": "./svg/flashcards.svg"
     },
     "follow": {
       "codepoint": 61739,
-      "source": "svg/follow.svg"
+      "source": "./svg/follow.svg"
     },
     "gears": {
       "codepoint": 61740,
-      "source": "svg/gears.svg"
+      "source": "./svg/gears.svg"
     },
     "googleplus": {
       "codepoint": 61741,
-      "source": "svg/googleplus.svg"
+      "source": "./svg/googleplus.svg"
     },
     "highlightsnotes": {
       "codepoint": 61742,
-      "source": "svg/highlightsnotes.svg"
+      "source": "./svg/highlightsnotes.svg"
     },
     "history": {
       "codepoint": 61743,
-      "source": "svg/history.svg"
+      "source": "./svg/history.svg"
     },
     "issue": {
       "codepoint": 61744,
-      "source": "svg/issue.svg"
+      "source": "./svg/issue.svg"
     },
     "issues": {
       "codepoint": 61745,
-      "source": "svg/issues.svg"
+      "source": "./svg/issues.svg"
     },
     "joiedevivre": {
       "codepoint": 61746,
-      "source": "svg/joiedevivre.svg"
+      "source": "./svg/joiedevivre.svg"
     },
     "join-discussion": {
       "codepoint": 61747,
-      "source": "svg/join-discussion.svg"
+      "source": "./svg/join-discussion.svg"
     },
     "lasers": {
       "codepoint": 61748,
-      "source": "svg/lasers.svg"
+      "source": "./svg/lasers.svg"
     },
     "learn": {
       "codepoint": 61749,
-      "source": "svg/learn.svg"
+      "source": "./svg/learn.svg"
     },
     "lesson": {
       "codepoint": 61750,
-      "source": "svg/lesson.svg"
+      "source": "./svg/lesson.svg"
     },
     "login": {
       "codepoint": 61751,
-      "source": "svg/login.svg"
+      "source": "./svg/login.svg"
     },
     "logout": {
       "codepoint": 61752,
-      "source": "svg/logout.svg"
+      "source": "./svg/logout.svg"
     },
     "mentioned": {
       "codepoint": 61753,
-      "source": "svg/mentioned.svg"
+      "source": "./svg/mentioned.svg"
     },
     "office": {
       "codepoint": 61754,
-      "source": "svg/office.svg"
+      "source": "./svg/office.svg"
     },
     "openissue": {
       "codepoint": 61755,
-      "source": "svg/openissue.svg"
+      "source": "./svg/openissue.svg"
     },
     "organizeedit": {
       "codepoint": 61756,
-      "source": "svg/organizeedit.svg"
+      "source": "./svg/organizeedit.svg"
     },
     "pdf": {
       "codepoint": 61757,
-      "source": "svg/pdf.svg"
+      "source": "./svg/pdf.svg"
     },
     "peerreview": {
       "codepoint": 61758,
-      "source": "svg/peerreview.svg"
+      "source": "./svg/peerreview.svg"
     },
     "pepe": {
       "codepoint": 61759,
-      "source": "svg/pepe.svg"
+      "source": "./svg/pepe.svg"
     },
     "pingpong": {
       "codepoint": 61760,
-      "source": "svg/pingpong.svg"
+      "source": "./svg/pingpong.svg"
     },
     "plus": {
       "codepoint": 61761,
-      "source": "svg/plus.svg"
+      "source": "./svg/plus.svg"
     },
     "powerpoint-righttab": {
       "codepoint": 61762,
-      "source": "svg/powerpoint-righttab.svg"
+      "source": "./svg/powerpoint-righttab.svg"
     },
     "ppt": {
       "codepoint": 61763,
-      "source": "svg/ppt.svg"
+      "source": "./svg/ppt.svg"
     },
     "proposechange": {
       "codepoint": 61764,
-      "source": "svg/proposechange.svg"
+      "source": "./svg/proposechange.svg"
     },
     "question": {
       "codepoint": 61765,
-      "source": "svg/question.svg"
+      "source": "./svg/question.svg"
     },
     "quiz": {
       "codepoint": 61766,
-      "source": "svg/quiz.svg"
+      "source": "./svg/quiz.svg"
     },
     "quiz-righttab": {
       "codepoint": 61767,
-      "source": "svg/quiz-righttab.svg"
+      "source": "./svg/quiz-righttab.svg"
     },
     "quotes": {
       "codepoint": 61768,
-      "source": "svg/quotes.svg"
+      "source": "./svg/quotes.svg"
     },
     "read": {
       "codepoint": 61769,
-      "source": "svg/read.svg"
+      "source": "./svg/read.svg"
     },
     "reading": {
       "codepoint": 61770,
-      "source": "svg/reading.svg"
+      "source": "./svg/reading.svg"
     },
     "reading-righttab": {
       "codepoint": 61771,
-      "source": "svg/reading-righttab.svg"
+      "source": "./svg/reading-righttab.svg"
     },
     "rejected": {
       "codepoint": 61772,
-      "source": "svg/rejected.svg"
+      "source": "./svg/rejected.svg"
     },
     "reopenissue": {
       "codepoint": 61773,
-      "source": "svg/reopenissue.svg"
+      "source": "./svg/reopenissue.svg"
     },
     "save": {
       "codepoint": 61774,
-      "source": "svg/save.svg"
+      "source": "./svg/save.svg"
     },
     "screen": {
       "codepoint": 61775,
-      "source": "svg/screen.svg"
+      "source": "./svg/screen.svg"
     },
     "search": {
       "codepoint": 61776,
-      "source": "svg/search.svg"
+      "source": "./svg/search.svg"
     },
     "settings": {
       "codepoint": 61777,
-      "source": "svg/settings.svg"
+      "source": "./svg/settings.svg"
     },
     "signup": {
       "codepoint": 61778,
-      "source": "svg/signup.svg"
+      "source": "./svg/signup.svg"
     },
     "smartnotes": {
       "codepoint": 61779,
-      "source": "svg/smartnotes.svg"
+      "source": "./svg/smartnotes.svg"
     },
     "standingdesks": {
       "codepoint": 61780,
-      "source": "svg/standingdesks.svg"
+      "source": "./svg/standingdesks.svg"
     },
     "star": {
       "codepoint": 61781,
-      "source": "svg/star.svg"
+      "source": "./svg/star.svg"
     },
     "start": {
       "codepoint": 61782,
-      "source": "svg/start.svg"
+      "source": "./svg/start.svg"
     },
     "teach": {
       "codepoint": 61783,
-      "source": "svg/teach.svg"
+      "source": "./svg/teach.svg"
     },
     "toreview": {
       "codepoint": 61784,
-      "source": "svg/toreview.svg"
+      "source": "./svg/toreview.svg"
     },
     "triangle": {
       "codepoint": 61785,
-      "source": "svg/triangle.svg"
+      "source": "./svg/triangle.svg"
     },
     "twitter": {
       "codepoint": 61786,
-      "source": "svg/twitter.svg"
+      "source": "./svg/twitter.svg"
     },
     "updatechange": {
       "codepoint": 61787,
-      "source": "svg/updatechange.svg"
+      "source": "./svg/updatechange.svg"
     },
     "user": {
       "codepoint": 61788,
-      "source": "svg/user.svg"
+      "source": "./svg/user.svg"
     },
     "videogames": {
       "codepoint": 61789,
-      "source": "svg/videogames.svg"
+      "source": "./svg/videogames.svg"
     },
     "worddoc": {
       "codepoint": 61790,
-      "source": "svg/worddoc.svg"
+      "source": "./svg/worddoc.svg"
     },
     "x": {
       "codepoint": 61791,
-      "source": "svg/x.svg"
+      "source": "./svg/x.svg"
     },
     "x_negative": {
       "codepoint": 61792,
-      "source": "svg/x_negative.svg"
+      "source": "./svg/x_negative.svg"
     }
   },
   "options": {
@@ -407,8 +411,8 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "./svg",
+      "vectors": "./svg"
     },
     "no_hash": true,
     "output": {
