@@ -4,7 +4,7 @@ This is an automated system to develop an icon webfont from all .svg files prese
 
 It depends on [FontCustom](https://github.com/FontCustom/fontcustom).
 
-## Design guidelines
+## Design Guidelines
 
 - All colors will be rendered identically — including white fills.
 - Make transparent colors solid. SVGs with transparency will be skipped.
