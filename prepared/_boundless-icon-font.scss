@@ -1,0 +1,229 @@
+//
+// Icon Font: boundless-icon-font
+// IE9+ only
+//
+
+@font-face {
+  font-family: "boundless-icon-font";
+  src: asset-data-url("boundless-icon-font/boundless-icon-font.woff") format("woff"),
+       font-url("boundless-icon-font/boundless-icon-font.woff") format("woff"),
+       font-url("boundless-icon-font/boundless-icon-font.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.boundless-icon-activity:before,
+.boundless-icon-approved:before,
+.boundless-icon-arrow-thick:before,
+.boundless-icon-arrow-thin:before,
+.boundless-icon-assign:before,
+.boundless-icon-assigned:before,
+.boundless-icon-assignments:before,
+.boundless-icon-bell:before,
+.boundless-icon-bike:before,
+.boundless-icon-blog:before,
+.boundless-icon-book:before,
+.boundless-icon-bot:before,
+.boundless-icon-checkmark:before,
+.boundless-icon-checkmark_negative:before,
+.boundless-icon-chevron-thick:before,
+.boundless-icon-chevron-thin:before,
+.boundless-icon-circle-check:before,
+.boundless-icon-clock:before,
+.boundless-icon-closeissue:before,
+.boundless-icon-commented:before,
+.boundless-icon-community:before,
+.boundless-icon-competition:before,
+.boundless-icon-concept:before,
+.boundless-icon-courses:before,
+.boundless-icon-curate:before,
+.boundless-icon-customize:before,
+.boundless-icon-dineraccess:before,
+.boundless-icon-discussion:before,
+.boundless-icon-download:before,
+.boundless-icon-drink:before,
+.boundless-icon-dup_and_edit:before,
+.boundless-icon-edit:before,
+.boundless-icon-educator:before,
+.boundless-icon-embed:before,
+.boundless-icon-empty_allopen:before,
+.boundless-icon-empty_assigned:before,
+.boundless-icon-empty_awaitingapproval:before,
+.boundless-icon-empty_awaitingreview:before,
+.boundless-icon-empty_completed:before,
+.boundless-icon-empty_inprogress:before,
+.boundless-icon-empty_proposed:before,
+.boundless-icon-error:before,
+.boundless-icon-eye:before,
+.boundless-icon-facebook:before,
+.boundless-icon-flashcards:before,
+.boundless-icon-follow:before,
+.boundless-icon-gears:before,
+.boundless-icon-googleplus:before,
+.boundless-icon-highlightsnotes:before,
+.boundless-icon-history:before,
+.boundless-icon-issue:before,
+.boundless-icon-issues:before,
+.boundless-icon-joiedevivre:before,
+.boundless-icon-join-discussion:before,
+.boundless-icon-lasers:before,
+.boundless-icon-learn:before,
+.boundless-icon-lesson:before,
+.boundless-icon-login:before,
+.boundless-icon-logout:before,
+.boundless-icon-mentioned:before,
+.boundless-icon-office:before,
+.boundless-icon-openissue:before,
+.boundless-icon-organizeedit:before,
+.boundless-icon-pdf:before,
+.boundless-icon-peerreview:before,
+.boundless-icon-pepe:before,
+.boundless-icon-pingpong:before,
+.boundless-icon-plus:before,
+.boundless-icon-powerpoint-righttab:before,
+.boundless-icon-ppt:before,
+.boundless-icon-proposechange:before,
+.boundless-icon-question:before,
+.boundless-icon-quiz:before,
+.boundless-icon-quiz-righttab:before,
+.boundless-icon-quotes:before,
+.boundless-icon-read:before,
+.boundless-icon-reading:before,
+.boundless-icon-reading-righttab:before,
+.boundless-icon-rejected:before,
+.boundless-icon-reopenissue:before,
+.boundless-icon-save:before,
+.boundless-icon-screen:before,
+.boundless-icon-search:before,
+.boundless-icon-settings:before,
+.boundless-icon-signup:before,
+.boundless-icon-smartnotes:before,
+.boundless-icon-standingdesks:before,
+.boundless-icon-star:before,
+.boundless-icon-start:before,
+.boundless-icon-teach:before,
+.boundless-icon-toreview:before,
+.boundless-icon-triangle:before,
+.boundless-icon-twitter:before,
+.boundless-icon-updatechange:before,
+.boundless-icon-user:before,
+.boundless-icon-videogames:before,
+.boundless-icon-worddoc:before,
+.boundless-icon-x:before,
+.boundless-icon-x_negative:before {
+  display: inline-block;
+  font-family: "boundless-icon-font";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.boundless-icon-activity:before { content: "\f164"; }
+.boundless-icon-approved:before { content: "\f100"; }
+.boundless-icon-arrow-thick:before { content: "\f101"; }
+.boundless-icon-arrow-thin:before { content: "\f102"; }
+.boundless-icon-assign:before { content: "\f103"; }
+.boundless-icon-assigned:before { content: "\f104"; }
+.boundless-icon-assignments:before { content: "\f105"; }
+.boundless-icon-bell:before { content: "\f106"; }
+.boundless-icon-bike:before { content: "\f107"; }
+.boundless-icon-blog:before { content: "\f108"; }
+.boundless-icon-book:before { content: "\f109"; }
+.boundless-icon-bot:before { content: "\f10a"; }
+.boundless-icon-checkmark:before { content: "\f10b"; }
+.boundless-icon-checkmark_negative:before { content: "\f10c"; }
+.boundless-icon-chevron-thick:before { content: "\f10d"; }
+.boundless-icon-chevron-thin:before { content: "\f10e"; }
+.boundless-icon-circle-check:before { content: "\f10f"; }
+.boundless-icon-clock:before { content: "\f110"; }
+.boundless-icon-closeissue:before { content: "\f111"; }
+.boundless-icon-commented:before { content: "\f112"; }
+.boundless-icon-community:before { content: "\f163"; }
+.boundless-icon-competition:before { content: "\f113"; }
+.boundless-icon-concept:before { content: "\f114"; }
+.boundless-icon-courses:before { content: "\f115"; }
+.boundless-icon-curate:before { content: "\f116"; }
+.boundless-icon-customize:before { content: "\f117"; }
+.boundless-icon-dineraccess:before { content: "\f118"; }
+.boundless-icon-discussion:before { content: "\f119"; }
+.boundless-icon-download:before { content: "\f11a"; }
+.boundless-icon-drink:before { content: "\f11b"; }
+.boundless-icon-dup_and_edit:before { content: "\f11c"; }
+.boundless-icon-edit:before { content: "\f11d"; }
+.boundless-icon-educator:before { content: "\f11e"; }
+.boundless-icon-embed:before { content: "\f11f"; }
+.boundless-icon-empty_allopen:before { content: "\f120"; }
+.boundless-icon-empty_assigned:before { content: "\f121"; }
+.boundless-icon-empty_awaitingapproval:before { content: "\f122"; }
+.boundless-icon-empty_awaitingreview:before { content: "\f123"; }
+.boundless-icon-empty_completed:before { content: "\f124"; }
+.boundless-icon-empty_inprogress:before { content: "\f125"; }
+.boundless-icon-empty_proposed:before { content: "\f126"; }
+.boundless-icon-error:before { content: "\f127"; }
+.boundless-icon-eye:before { content: "\f128"; }
+.boundless-icon-facebook:before { content: "\f129"; }
+.boundless-icon-flashcards:before { content: "\f12a"; }
+.boundless-icon-follow:before { content: "\f12b"; }
+.boundless-icon-gears:before { content: "\f12c"; }
+.boundless-icon-googleplus:before { content: "\f12d"; }
+.boundless-icon-highlightsnotes:before { content: "\f12e"; }
+.boundless-icon-history:before { content: "\f12f"; }
+.boundless-icon-issue:before { content: "\f130"; }
+.boundless-icon-issues:before { content: "\f131"; }
+.boundless-icon-joiedevivre:before { content: "\f132"; }
+.boundless-icon-join-discussion:before { content: "\f133"; }
+.boundless-icon-lasers:before { content: "\f134"; }
+.boundless-icon-learn:before { content: "\f135"; }
+.boundless-icon-lesson:before { content: "\f136"; }
+.boundless-icon-login:before { content: "\f137"; }
+.boundless-icon-logout:before { content: "\f138"; }
+.boundless-icon-mentioned:before { content: "\f139"; }
+.boundless-icon-office:before { content: "\f13a"; }
+.boundless-icon-openissue:before { content: "\f13b"; }
+.boundless-icon-organizeedit:before { content: "\f13c"; }
+.boundless-icon-pdf:before { content: "\f13d"; }
+.boundless-icon-peerreview:before { content: "\f13e"; }
+.boundless-icon-pepe:before { content: "\f13f"; }
+.boundless-icon-pingpong:before { content: "\f140"; }
+.boundless-icon-plus:before { content: "\f141"; }
+.boundless-icon-powerpoint-righttab:before { content: "\f142"; }
+.boundless-icon-ppt:before { content: "\f143"; }
+.boundless-icon-proposechange:before { content: "\f144"; }
+.boundless-icon-question:before { content: "\f145"; }
+.boundless-icon-quiz:before { content: "\f146"; }
+.boundless-icon-quiz-righttab:before { content: "\f147"; }
+.boundless-icon-quotes:before { content: "\f148"; }
+.boundless-icon-read:before { content: "\f149"; }
+.boundless-icon-reading:before { content: "\f14a"; }
+.boundless-icon-reading-righttab:before { content: "\f14b"; }
+.boundless-icon-rejected:before { content: "\f14c"; }
+.boundless-icon-reopenissue:before { content: "\f14d"; }
+.boundless-icon-save:before { content: "\f14e"; }
+.boundless-icon-screen:before { content: "\f14f"; }
+.boundless-icon-search:before { content: "\f150"; }
+.boundless-icon-settings:before { content: "\f151"; }
+.boundless-icon-signup:before { content: "\f152"; }
+.boundless-icon-smartnotes:before { content: "\f153"; }
+.boundless-icon-standingdesks:before { content: "\f154"; }
+.boundless-icon-star:before { content: "\f155"; }
+.boundless-icon-start:before { content: "\f156"; }
+.boundless-icon-teach:before { content: "\f157"; }
+.boundless-icon-toreview:before { content: "\f158"; }
+.boundless-icon-triangle:before { content: "\f159"; }
+.boundless-icon-twitter:before { content: "\f15a"; }
+.boundless-icon-updatechange:before { content: "\f15b"; }
+.boundless-icon-user:before { content: "\f15c"; }
+.boundless-icon-videogames:before { content: "\f15d"; }
+.boundless-icon-worddoc:before { content: "\f15e"; }
+.boundless-icon-x:before { content: "\f15f"; }
+.boundless-icon-x_negative:before { content: "\f160"; }

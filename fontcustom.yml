@@ -5,7 +5,10 @@
 # --------------------------------------------------------------------------- #
 font_name: boundless-icon-font
 css_selector: .boundless-icon-{{glyph}}
-preprocessor_path:
+rails_font_helper: font-url
+rails_base64_font_helper: asset-data-url
+rails_font_helper_path: boundless-icon-font/
+
 autowidth: false
 no_hash: true
 force: false
@@ -19,7 +22,7 @@ quiet: false
 
 input:
   vectors: svg      # required
-  #templates: templates
+  templates: output_templates
 
 
 # --------------------------------------------------------------------------- #
@@ -30,8 +33,6 @@ output:
   fonts: prepared/boundless-icon-font                            # required
   css: prepared
   preview: styleguide
-  #my-custom-template.yml: path/to/template/output
-
 
 # --------------------------------------------------------------------------- #
 # Templates
@@ -42,6 +43,6 @@ output:
 
 templates:
  #- scss
- - scss-rails
+ #- scss-rails
  - preview
- #- my-custom-template.yml
+ - _boundless-icon-font.scss

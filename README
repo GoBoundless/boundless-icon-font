@@ -15,25 +15,19 @@ Design guidelines:
 Installation:
 brew install fontforge eot-utils ttfautohint
 gem install fontcustom
-brew install node
-
-close, then open new terminal window.
-run “fontcustom compile” in this folder just once to get it set up.
 
 
 USAGE:
-1. CD to this directory, then Run: 
-node start.js
-(will watch the svg folder for new files)
+1. Add, or remove .svg files to/from the svg folder
 
-2. Add, or remove .svg files to/from the svg folder, and the css, and font will be automatically updated
+2. run "fontcustom compile" from this directory
 
 3. Visit the styleguide folder to preview your font in the browser.
 
-Specific to Boundless Learning App:
-4. Assuming your www repo is in the same directory as boundless-icon-font, simply run ./update_www.sh
+4. Assuming your www repo is in the same directory as boundless-icon-font, simply run ./update_www.sh.
+
+5. Commit and push changes to this repo or the next person to alter boundless-icon-font will create conflicts!
 
 
 Notes:
 -Config file is: fontcustom.yml. These config settings will only be loaded if the fontcustom command is run while in this directory
--If you run "node start.js" and the svg folder is empty, it will error and exit.

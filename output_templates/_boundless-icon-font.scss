@@ -1,0 +1,22 @@
+//
+// Icon Font: <%= font_name %>
+// IE9+ only
+//
+
+@font-face {
+  font-family: "<%= font_name %>";
+  src: <%= @options[:rails_base64_font_helper] %>("<%= @options[:rails_font_helper_path]+font_name %>.woff") format("woff"),
+       <%= @options[:rails_font_helper] %>("<%= @options[:rails_font_helper_path]+font_name %>.woff") format("woff"),
+       <%= @options[:rails_font_helper] %>("<%= @options[:rails_font_helper_path]+font_name %>.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+<%= glyph_selectors %> {
+<%= glyph_properties %>
+}
+
+<%= glyphs %>

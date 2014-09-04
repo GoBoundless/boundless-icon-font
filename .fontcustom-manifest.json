@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "410886eb6010d6d042a96c27133ab3786740de003c92b0844b3af3e44e94b2bc",
-    "current": "410886eb6010d6d042a96c27133ab3786740de003c92b0844b3af3e44e94b2bc"
+    "previous": "e9598939788f8091329b9269a9b2107dbbde6116cd6bc6bab4de5eccc78b3143",
+    "current": "e9598939788f8091329b9269a9b2107dbbde6116cd6bc6bab4de5eccc78b3143"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -11,7 +11,7 @@
   ],
   "glyphs": {
     "activity": {
-      "codepoint": 61794,
+      "codepoint": 61796,
       "source": "svg/activity.svg"
     },
     "approved": {
@@ -415,7 +415,7 @@
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
-      "templates": "svg",
+      "templates": "output_templates",
       "vectors": "svg"
     },
     "no_hash": true,
@@ -426,13 +426,16 @@
     },
     "preprocessor_path": null,
     "quiet": false,
+    "rails_base64_font_helper": "asset-data-url",
+    "rails_font_helper": "font-url",
+    "rails_font_helper_path": "boundless-icon-font/",
     "templates": [
-      "scss-rails",
-      "preview"
+      "preview",
+      "_boundless-icon-font.scss"
     ]
   },
   "templates": [
-    "prepared/_boundless-icon-font-rails.scss",
-    "styleguide/boundless-icon-font-preview.html"
+    "styleguide/boundless-icon-font-preview.html",
+    "prepared/_boundless-icon-font.scss"
   ]
 }
