@@ -2,7 +2,7 @@
 
 This is an automated system to develop an icon webfont from all .svg files present in the "svg" folder.
 
-It uses [FontCustom](https://github.com/FontCustom/fontcustom).
+It depends on [FontCustom](https://github.com/FontCustom/fontcustom).
 
 ## Design guidelines
 
@@ -30,4 +30,4 @@ $ gem install fontcustom
 
 
 ### Notes
--Config file is: fontcustom.yml. These config settings will only be loaded if the fontcustom command is run while in this directory
+- Config file is `fontcustom.yml`. These config settings will only be loaded if the fontcustom command is run while in this directory.
