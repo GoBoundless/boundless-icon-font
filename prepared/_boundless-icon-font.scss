@@ -17,8 +17,10 @@
 [data-icon]:before,
 .boundless-icon-activity:before,
 .boundless-icon-approved:before,
+.boundless-icon-arrow-down:before,
 .boundless-icon-arrow-thick:before,
 .boundless-icon-arrow-thin:before,
+.boundless-icon-arrow-up:before,
 .boundless-icon-assign:before,
 .boundless-icon-assigned:before,
 .boundless-icon-assignments:before,
@@ -130,8 +132,10 @@
 
 .boundless-icon-activity:before { content: "\f164"; }
 .boundless-icon-approved:before { content: "\f100"; }
+.boundless-icon-arrow-down:before { content: "\f165"; }
 .boundless-icon-arrow-thick:before { content: "\f101"; }
 .boundless-icon-arrow-thin:before { content: "\f102"; }
+.boundless-icon-arrow-up:before { content: "\f166"; }
 .boundless-icon-assign:before { content: "\f103"; }
 .boundless-icon-assigned:before { content: "\f104"; }
 .boundless-icon-assignments:before { content: "\f105"; }

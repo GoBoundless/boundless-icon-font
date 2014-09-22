@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e9598939788f8091329b9269a9b2107dbbde6116cd6bc6bab4de5eccc78b3143",
-    "current": "e9598939788f8091329b9269a9b2107dbbde6116cd6bc6bab4de5eccc78b3143"
+    "previous": "8b79ddbd8634aeb202e9481f5209ab34cc2fd8c4a78321469b633f2016296b78",
+    "current": "8b79ddbd8634aeb202e9481f5209ab34cc2fd8c4a78321469b633f2016296b78"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -18,6 +18,10 @@
       "codepoint": 61696,
       "source": "svg/approved.svg"
     },
+    "arrow-down": {
+      "codepoint": 61797,
+      "source": "svg/arrow-down.svg"
+    },
     "arrow-thick": {
       "codepoint": 61697,
       "source": "svg/arrow-thick.svg"
@@ -25,6 +29,10 @@
     "arrow-thin": {
       "codepoint": 61698,
       "source": "svg/arrow-thin.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61798,
+      "source": "svg/arrow-up.svg"
     },
     "assign": {
       "codepoint": 61699,
