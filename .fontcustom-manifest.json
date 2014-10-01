@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "8b79ddbd8634aeb202e9481f5209ab34cc2fd8c4a78321469b633f2016296b78",
-    "current": "8b79ddbd8634aeb202e9481f5209ab34cc2fd8c4a78321469b633f2016296b78"
+    "previous": "7d161b18510b8878e6f3903b776497a49d7049641433fa5d6ab44d688a877fbe",
+    "current": "7d161b18510b8878e6f3903b776497a49d7049641433fa5d6ab44d688a877fbe"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -297,6 +297,10 @@
     "ppt": {
       "codepoint": 61763,
       "source": "svg/ppt.svg"
+    },
+    "ppt-righttab": {
+      "codepoint": 61799,
+      "source": "svg/ppt-righttab.svg"
     },
     "proposechange": {
       "codepoint": 61764,
