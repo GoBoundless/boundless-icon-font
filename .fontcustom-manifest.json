@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7d161b18510b8878e6f3903b776497a49d7049641433fa5d6ab44d688a877fbe",
-    "current": "7d161b18510b8878e6f3903b776497a49d7049641433fa5d6ab44d688a877fbe"
+    "previous": "b0c61f1f4a7ac414ff585d14df7de1a2040d9a88388cd5bd7ad9b6c92f774295",
+    "current": "b0c61f1f4a7ac414ff585d14df7de1a2040d9a88388cd5bd7ad9b6c92f774295"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -197,6 +197,10 @@
     "flashcards": {
       "codepoint": 61738,
       "source": "svg/flashcards.svg"
+    },
+    "folder": {
+      "codepoint": 61800,
+      "source": "svg/folder.svg"
     },
     "follow": {
       "codepoint": 61739,
