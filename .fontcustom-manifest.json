@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c26096dc0a8b7dbcb92aa529a2623126e36c9e73cb74d08c54189b7ff88a4f94",
-    "current": "c26096dc0a8b7dbcb92aa529a2623126e36c9e73cb74d08c54189b7ff88a4f94"
+    "previous": "e1ea7608078316830685f75db3d34e2b67263032fe0ae4926446c8f47e975826",
+    "current": "e1ea7608078316830685f75db3d34e2b67263032fe0ae4926446c8f47e975826"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -154,6 +154,10 @@
       "codepoint": 61727,
       "source": "svg/embed.svg"
     },
+    "embed-1": {
+      "codepoint": 61803,
+      "source": "svg/embed-1.svg"
+    },
     "empty_allopen": {
       "codepoint": 61728,
       "source": "svg/empty_allopen.svg"
@@ -217,6 +221,10 @@
     "googleplus": {
       "codepoint": 61741,
       "source": "svg/googleplus.svg"
+    },
+    "graph": {
+      "codepoint": 61804,
+      "source": "svg/graph.svg"
     },
     "highlightsnotes": {
       "codepoint": 61742,
