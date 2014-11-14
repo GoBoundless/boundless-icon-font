@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e1ea7608078316830685f75db3d34e2b67263032fe0ae4926446c8f47e975826",
-    "current": "e1ea7608078316830685f75db3d34e2b67263032fe0ae4926446c8f47e975826"
+    "previous": "8c7c775cc143103fa577b5823eec3d3c259ff2c3546f55566b852e66b6d2ee80",
+    "current": "8c7c775cc143103fa577b5823eec3d3c259ff2c3546f55566b852e66b6d2ee80"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -265,6 +265,10 @@
     "login": {
       "codepoint": 61751,
       "source": "svg/login.svg"
+    },
+    "logo": {
+      "codepoint": 61805,
+      "source": "svg/logo.svg"
     },
     "logout": {
       "codepoint": 61752,
