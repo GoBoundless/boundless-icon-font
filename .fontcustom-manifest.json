@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "7852492a081fb190b6956f5cf7a843651468bcb5fcbfb6a1ad29010a0c1e2923",
-    "current": "7852492a081fb190b6956f5cf7a843651468bcb5fcbfb6a1ad29010a0c1e2923"
+    "previous": "582183595bbc4f2590756cb000b3e85b44efaaeff03c1f7d7f46693f23851450",
+    "current": "582183595bbc4f2590756cb000b3e85b44efaaeff03c1f7d7f46693f23851450"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -205,6 +205,14 @@
     "facebook": {
       "codepoint": 61737,
       "source": "svg/facebook.svg"
+    },
+    "feedback": {
+      "codepoint": 61808,
+      "source": "svg/feedback.svg"
+    },
+    "feedback-negative": {
+      "codepoint": 61810,
+      "source": "svg/feedback-negative.svg"
     },
     "flashcards": {
       "codepoint": 61738,
@@ -456,6 +464,10 @@
     "config": "fontcustom.yml",
     "css_selector": ".boundless-icon-{{glyph}}",
     "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
     "font_name": "boundless-icon-font",
     "force": false,
     "input": {
