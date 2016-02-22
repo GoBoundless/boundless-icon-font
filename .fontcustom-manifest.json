@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "e7cfbb45fb90a691aae07991d410d4dee34ebfbf0fd1658a84dc8de49d8a5305",
-    "current": "e7cfbb45fb90a691aae07991d410d4dee34ebfbf0fd1658a84dc8de49d8a5305"
+    "previous": "e1b24da95ae4019871efbbb3ae578e8480fb1ea3b28d2ec305e5cd35e85e7122",
+    "current": "e1b24da95ae4019871efbbb3ae578e8480fb1ea3b28d2ec305e5cd35e85e7122"
   },
   "fonts": [
     "prepared/boundless-icon-font/boundless-icon-font.ttf",
@@ -53,6 +53,10 @@
     "bike": {
       "codepoint": 61703,
       "source": "svg/bike.svg"
+    },
+    "blackboard": {
+      "codepoint": 61812,
+      "source": "svg/blackboard.svg"
     },
     "blog": {
       "codepoint": 61704,
